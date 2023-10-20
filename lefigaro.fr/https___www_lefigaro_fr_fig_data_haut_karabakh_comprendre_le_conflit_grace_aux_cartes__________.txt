@@ -1,0 +1,316 @@
+
+Meta Tags:
+  description: CARTES â AprÃ¨s une nouvelle offensive militaire Ã©clair de l'AzerbaÃ¯djan, l'enclave sÃ©paratiste a dÃ©finitivement capitulÃ©, provoquant l'exode de ses habitants vers l'ArmÃ©nie. Le prÃ©sident Aliev pourrait pourtant ne pas s'arrÃªter lÃ  dans une rÃ©gion oÃ¹ la Russie a perdu de son influence, au profit de la Turquie.
+  viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  robots: max-snippet:-1, max-image-preview:large, max-video-preview:-1
+  keywords: ArmÃ©nie, AzerbaÃ¯djan, Haut-Karabakh, Guerre, URSS, Conflit
+  twitter:card: summary_large_image
+  twitter:site: Le_Figaro
+  twitter:creator: Le_Figaro
+  twitter:title: Haut-Karabakh : comprendre le conflit grÃ¢ce aux cartes
+  twitter:description: CARTES â AprÃ¨s une nouvelle offensive militaire Ã©clair de l'AzerbaÃ¯djan, l'enclave sÃ©paratiste a dÃ©finitivement capitulÃ©, provoquant l'exode de ses habitants vers l'ArmÃ©nie. Le prÃ©sident Aliev pourrait pourtant ne pas s'arrÃªter lÃ  dans une rÃ©gion oÃ¹ la Russie a perdu de son influence, au profit de la Turquie.
+  next-head-count: 30
+
+Headings:
+  h1: ['Haut-Karabakh : comprendre le conflit grÃ¢ce aux cartes']
+  h2: ['CrÃ©dits']
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+  - http://www.lefigaro.fr/
+  - https://www.lefigaro.fr/auteur/arthur-bijotat
+  - https://www.lefigaro.fr/auteur/dario-ingiusto
+  - https://www.lefigaro.fr/auteur/arthur-bijotat
+  - https://www.lefigaro.fr/auteur/dario-ingiusto
+  - https://lefigaro.fr/dossier/fig-data-infographies-datavisualisation
+  - mailto:?subject=Le%20Figaro%20%C3%A0%20lire%20&body=%0A%0A%0A%0Ahttps://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+  - https://twitter.com/intent/tweet?text=https://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+  - mailto:?subject=Le%20Figaro%20%C3%A0%20lire%20&body=%0A%0A%0A%0Ahttps://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+  - https://twitter.com/intent/tweet?text=https://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+  - http://www.lefigaro.fr/
+  - https://lefigaro.fr/dossier/fig-data-infographies-datavisualisation
+
+Text Content:
+  Haut-Karabakh : comprendre le conflit grÃ¢ce aux cartesHaut-Karabakh : comprendre le conflit grÃ¢ce aux cartesParArthur BijotatetDario IngiustoParArthur BijotatetDario IngiustopourFig DataPubliÃ© le25 septembre 2023, mis Ã  jour le 26 septembre 2023CARTES âAprÃ¨s une nouvelle offensive militaire Ã©clair de l'AzerbaÃ¯djan, l'enclave sÃ©paratiste a dÃ©finitivement capitulÃ©, provoquant l'exode de ses habitants vers l'ArmÃ©nie. Le prÃ©sident Aliev pourrait pourtant ne pas s'arrÃªter lÃ  dans une rÃ©gion oÃ¹ la Russie a perdu de son influence, au profit de la Turquie.CrÃ©ditsRÃDACTIONArthur BijotatCARTOGRAPHIEDario IngiustoGuillaume BalavoineRÃDACTION EN CHEFStÃ©phane SaulnierRÃALISATION TECHNIQUENicolas DunisKarim AÃ¯t TabetMaxime LoustaletSOURCESM. IzadyGulf/2000 Project - Columbia UniversityISWNews.com@Warmapper@nkobserverliveuamap.comEsriNaturalEarthData
+
+Images:
+
+Keywords:
+  - CARTES
+  - â
+  - AprÃ
+  - s
+  - une
+  - nouvelle
+  - offensive
+  - militaire
+  - Ã
+  - clair
+  - de
+  - l
+  - AzerbaÃ
+  - djan
+  - l
+  - enclave
+  - sÃ
+  - paratiste
+  - a
+  - dÃ
+  - finitivement
+  - capitulÃ
+  - provoquant
+  - l
+  - exode
+  - de
+  - ses
+  - habitants
+  - vers
+  - l
+  - ArmÃ
+  - nie
+  - Le
+  - prÃ
+  - sident
+  - Aliev
+  - pourrait
+  - pourtant
+  - ne
+  - pas
+  - s
+  - arrÃªter
+  - lÃ
+  - dans
+  - une
+  - rÃ
+  - gion
+  - oÃ¹
+  - la
+  - Russie
+  - a
+  - perdu
+  - de
+  - son
+  - influence
+  - au
+  - profit
+  - de
+  - la
+  - Turquie
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - 0
+  - maximum
+  - scale
+  - 1
+  - 0
+  - user
+  - scalable
+  - no
+  - max
+  - snippet
+  - 1
+  - max
+  - image
+  - preview
+  - large
+  - max
+  - video
+  - preview
+  - 1
+  - ArmÃ
+  - nie
+  - AzerbaÃ
+  - djan
+  - Haut
+  - Karabakh
+  - Guerre
+  - URSS
+  - Conflit
+  - summary_large_image
+  - Le_Figaro
+  - Le_Figaro
+  - Haut
+  - Karabakh
+  - comprendre
+  - le
+  - conflit
+  - grÃ
+  - ce
+  - aux
+  - cartes
+  - CARTES
+  - â
+  - AprÃ
+  - s
+  - une
+  - nouvelle
+  - offensive
+  - militaire
+  - Ã
+  - clair
+  - de
+  - l
+  - AzerbaÃ
+  - djan
+  - l
+  - enclave
+  - sÃ
+  - paratiste
+  - a
+  - dÃ
+  - finitivement
+  - capitulÃ
+  - provoquant
+  - l
+  - exode
+  - de
+  - ses
+  - habitants
+  - vers
+  - l
+  - ArmÃ
+  - nie
+  - Le
+  - prÃ
+  - sident
+  - Aliev
+  - pourrait
+  - pourtant
+  - ne
+  - pas
+  - s
+  - arrÃªter
+  - lÃ
+  - dans
+  - une
+  - rÃ
+  - gion
+  - oÃ¹
+  - la
+  - Russie
+  - a
+  - perdu
+  - de
+  - son
+  - influence
+  - au
+  - profit
+  - de
+  - la
+  - Turquie
+  - 30Haut
+  - Karabakh
+  - comprendre
+  - le
+  - conflit
+  - grÃ
+  - ce
+  - aux
+  - cartes
+  - CrÃ
+  - dits
+
+Keyword Density:
+  CARTES: 0.0
+  â: 0.0
+  AprÃ: 0.0
+  s: 0.0
+  une: 0.0
+  nouvelle: 2.272727272727273
+  offensive: 2.272727272727273
+  militaire: 2.272727272727273
+  Ã: 2.272727272727273
+  clair: 0.0
+  de: 0.0
+  l: 0.0
+  AzerbaÃ: 0.0
+  djan: 0.0
+  enclave: 0.0
+  sÃ: 0.0
+  paratiste: 0.0
+  a: 4.545454545454546
+  dÃ: 0.0
+  finitivement: 0.0
+  capitulÃ: 0.0
+  provoquant: 2.272727272727273
+  exode: 0.0
+  ses: 0.0
+  habitants: 2.272727272727273
+  vers: 2.272727272727273
+  ArmÃ: 0.0
+  nie: 0.0
+  Le: 0.0
+  prÃ: 0.0
+  sident: 0.0
+  Aliev: 2.272727272727273
+  pourrait: 2.272727272727273
+  pourtant: 2.272727272727273
+  ne: 0.0
+  pas: 0.0
+  arrÃªter: 0.0
+  lÃ: 2.272727272727273
+  dans: 0.0
+  rÃ: 0.0
+  gion: 0.0
+  oÃ¹: 2.272727272727273
+  la: 0.0
+  Russie: 2.272727272727273
+  perdu: 2.272727272727273
+  son: 0.0
+  influence: 2.272727272727273
+  au: 0.0
+  profit: 2.272727272727273
+  Turquie: 0.0
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  0: 0.0
+  maximum: 0.0
+  user: 0.0
+  scalable: 0.0
+  no: 0.0
+  max: 0.0
+  snippet: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  video: 0.0
+  Haut: 0.0
+  Karabakh: 0.0
+  Guerre: 0.0
+  URSS: 0.0
+  Conflit: 4.545454545454546
+  summary_large_image: 0.0
+  Le_Figaro: 0.0
+  comprendre: 4.545454545454546
+  le: 0.0
+  conflit: 4.545454545454546
+  grÃ: 0.0
+  ce: 0.0
+  aux: 0.0
+  cartes: 0.0
+  30Haut: 0.0
+  CrÃ: 0.0
+  dits: 0.0
+
+Canonical URL:
+  https://www.lefigaro.fr/fig-data/haut-karabakh-comprendre-le-conflit-grace-aux-cartes-20230925/
+
+Language:
+  fr
+
+Charset:
+  utf-8
+
+Broken Links:

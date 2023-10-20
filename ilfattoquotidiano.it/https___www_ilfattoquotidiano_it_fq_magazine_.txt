@@ -1,0 +1,413 @@
+
+Meta Tags:
+  viewport: width=1080
+  robots: max-image-preview:large
+  twitter:card: summary_large_image
+  twitter:title: FQ Magazine - Il Fatto Quotidiano
+  twitter:site: @fattoquotidiano
+  twitter:creator: @the_minimizer
+  google-signin-client_id: 476465295171-69hs7d4aa94kjnmj55bnmjm8drg4dslm.apps.googleusercontent.com
+  msapplication-tileimage: https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/icons/touch_196.png
+
+Headings:
+  h1: []
+  h2: []
+  h3: ['Blog →']
+  h4: ['', 'Stile', 'Musica', 'Stile', 'Stile', 'Attualità', 'Viaggi', 'Attualità', 'Attualità', 'Viaggi', 'Musica']
+  h5: ['ABBONATI']
+  h6: []
+
+Links:
+  - /
+  - https://shop.ilfattoquotidiano.it/abbonamento-sostenitore-sostieni-ilfattoquotidiano/
+  - /
+  - #
+  - https://www.ilfattoquotidiano.it/mattanza-podcast/
+  - https://www.ilfattoquotidiano.it/politica-palazzo/
+  - https://www.ilfattoquotidiano.it/palazzi-potere/
+  - https://www.ilfattoquotidiano.it/giustizia-impunita/
+  - https://www.ilfattoquotidiano.it/media-regime/
+  - https://www.ilfattoquotidiano.it/economia-lobby/
+  - https://www.ilfattoquotidiano.it/economia-lobby/osservatorio-recovery/
+  - https://www.ilfattoquotidiano.it/zona-euro/
+  - https://www.ilfattoquotidiano.it/lavoro-precari/
+  - https://www.ilfattoquotidiano.it/cronaca/
+  - #
+  - https://www.ilfattoquotidiano.it/cronaca/memoriale-coronavirus/
+  - https://www.ilfattoquotidiano.it/cronaca-nera/
+  - https://www.ilfattoquotidiano.it/mafie/
+  - https://www.ilfattoquotidiano.it/mondo/
+  - https://www.ilfattoquotidiano.it/ambiente-veleni/
+  - https://www.ilfattoquotidiano.it/scuola/
+  - https://www.ilfattoquotidiano.it/diritti/
+  - https://www.ilfattoquotidiano.it/cervelli-fuga/
+  - https://www.ilfattoquotidiano.it/societa/
+  - https://www.ilfattoquotidiano.it/tecnologia/
+  - https://www.ilfattoquotidiano.it/scienza/
+  - https://www.ilfattoquotidiano.it/motori-2-0/
+  - https://www.ilfattoquotidiano.it/fq-magazine/
+  - https://www.ilfattoquotidiano.it/sport-miliardi/
+  - https://www.ilfattoquotidiano.it/salute/
+  - /video/
+  - https://www.ilfattoquotidiano.it/blog/
+  - https://fattodavoi.ilfattoquotidiano.it/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.ilfattoquotidiano.it/in-edicola/
+  - https://www.fqmillennium.it/
+  - https://www.tvloft.it/
+  - https://www.paperfirst.it/
+  - https://www.codicesconto.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/sostenitori/
+  - https://meteo.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/immobiliare/
+  - http://www.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/blog/
+  - http://tv.ilfattoquotidiano.it/
+  - http://www.flickr.com/photos/ilfattoquotidiano/
+  - http://ebook.ilfattoquotidiano.it/
+  - https://shop.ilfattoquotidiano.it/
+  - https://shop.ilfattoquotidiano.it/abbonamenti/
+  - http://shop.ilfattoquotidiano.it/abbonati/
+  - https://www.ilfattoquotidiano.it/contatti/
+  - https://www.facebook.com/ilFattoQuotidiano
+  - https://www.ilfattoquotidiano.it/2017/10/24/le-notizie-de-ilfattoquotidiano-su-facebook-messenger-ecco-come-riceverle/3932643/
+  - https://www.instagram.com/ilfattoquotidianoit/
+  - https://shop.ilfattoquotidiano.it/newsletter/
+  - https://www.twitter.com/FattoQuotidiano
+  - https://www.youtube.com/antefattoblog
+  - /abbonati/
+  - /fq-magazine/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.scuoladelfatto.it/
+  - /abbonati/
+  - https://www.ilfattoquotidiano.it/?s=&orderby=data#ifq_search_title
+  - /fq-magazine/speciale-sanremo-2023
+  - https://www.ilfattoquotidiano.it/fq-magazine/attualita/
+  - https://www.ilfattoquotidiano.it/fq-magazine/cinema/
+  - https://www.ilfattoquotidiano.it/fq-magazine/musica/
+  - https://www.ilfattoquotidiano.it/fq-magazine/cultura/
+  - https://www.ilfattoquotidiano.it/fq-magazine/viaggi/
+  - https://www.ilfattoquotidiano.it/fq-magazine/stile/
+  - https://www.ilfattoquotidiano.it/fq-magazine/televisione/
+  - https://www.ilfattoquotidiano.it/fq-magazine/world-news/
+  - https://www.ilfattoquotidiano.it/fq-magazine/sesso-volentieri/
+  - https://www.ilfattoquotidiano.it/fq-magazine/the-man-with-no-idea/
+  - https://www.ilfattoquotidiano.it/fq-magazine/stile/
+  - https://www.ilfattoquotidiano.it/2023/10/12/il-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici/7319212/
+  - https://www.ilfattoquotidiano.it/blog/ilaria-mauri-e-massimiliano-sortino/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F12%2Fil-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici%2F7319212%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F12%2Fil-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici%2F7319212%2F&text=Il+caldo+record+mette+in+crisi+la+moda%3A+solo+a+settembre+persi+320+milioni.+Felloni%3A+%E2%80%9CPenalizzate+piccole+boutique+di+quartiere+e+negozi+storici%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F12%2Fil-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici%2F7319212%2F&via=fattoquotidiano
+  - mailto:?subject=Il caldo record mette in crisi la moda: solo a settembre persi 320 milioni. Felloni: “Penalizzate piccole boutique di quartiere e negozi storici”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/12/il-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici/7319212/
+  - https://www.ilfattoquotidiano.it/2023/10/12/il-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici/7319212/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/12/il-caldo-record-mette-in-crisi-la-moda-solo-a-settembre-persi-320-milioni-felloni-penalizzate-piccole-boutique-di-quartiere-e-negozi-storici/7319212/
+  - https://www.ilfattoquotidiano.it/fq-magazine/musica/
+  - https://www.ilfattoquotidiano.it/2023/10/13/emma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza/7321875/
+  - https://www.ilfattoquotidiano.it/2023/10/13/emma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza/7321875/
+  - https://www.ilfattoquotidiano.it/blog/andrea-conti/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Femma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza%2F7321875%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Femma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza%2F7321875%2F&text=Emma+a+FQMagazine%3A+%E2%80%9CQuando+ho+perso+mio+pap%C3%A0+pensavo+%E2%80%9Cnon+lo+posso+pi%C3%B9+abbracciare%E2%80%9D%2C+ora+so+che+le+persone+che+sono+andate+via+ci+ascoltano.+La+rabbia+ha+fatto+posto+alla+dolcezza%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Femma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza%2F7321875%2F&via=fattoquotidiano
+  - mailto:?subject=Emma a FQMagazine: “Quando ho perso mio papà pensavo “non lo posso più abbracciare”, ora so che le persone che sono andate via ci ascoltano. La rabbia ha fatto posto alla dolcezza”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/13/emma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza/7321875/
+  - https://www.ilfattoquotidiano.it/2023/10/13/emma-a-fqmagazine-quando-ho-perso-mio-papa-pensavo-non-lo-posso-piu-abbracciare-ora-so-che-le-persone-che-sono-andate-via-ci-ascoltano-la-rabbia-ha-fatto-posto-alla-dolcezza/7321875/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/stile/
+  - https://www.ilfattoquotidiano.it/2023/10/08/miuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate/7317150/
+  - https://www.ilfattoquotidiano.it/2023/10/08/miuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate/7317150/
+  - https://www.ilfattoquotidiano.it/blog/ilaria-mauri/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F08%2Fmiuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate%2F7317150%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F08%2Fmiuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate%2F7317150%2F&text=Miuccia+Prada%3A+%E2%80%9CLa+moda+%C3%A8+come+la+politica%2C+decide+la+maggioranza+ma+non+si+tiene+conto+di+chi+non+vota%E2%80%9D.+Il+nostro+bilancio+di+un+mese+di+sfilate&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F08%2Fmiuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate%2F7317150%2F&via=fattoquotidiano
+  - mailto:?subject=Miuccia Prada: “La moda è come la politica, decide la maggioranza ma non si tiene conto di chi non vota”. Il nostro bilancio di un mese di sfilate&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/08/miuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate/7317150/
+  - https://www.ilfattoquotidiano.it/2023/10/08/miuccia-prada-la-moda-e-come-la-politica-decide-la-maggioranza-ma-non-si-tiene-conto-di-chi-non-vota-il-nostro-bilancio-di-un-mese-di-sfilate/7317150/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/stile/
+  - https://www.ilfattoquotidiano.it/2023/10/02/valentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione/7310206/
+  - https://www.ilfattoquotidiano.it/2023/10/02/valentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione/7310206/
+  - https://www.ilfattoquotidiano.it/blog/ilaria-mauri/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F02%2Fvalentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione%2F7310206%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F02%2Fvalentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione%2F7310206%2F&text=Valentino+sfila+a+Parigi+e+annulla+il+confine+tra+nudit%C3%A0+e+vestito.+Pierpaolo+Piccioli%3A+%E2%80%9CAgghiacciato+dal+dibattito+sessista+sul+corpo+delle+donne%2C+qui+celebro+la+loro+libert%C3%A0+di+espressione%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F02%2Fvalentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione%2F7310206%2F&via=fattoquotidiano
+  - mailto:?subject=Valentino sfila a Parigi e annulla il confine tra nudità e vestito. Pierpaolo Piccioli: “Agghiacciato dal dibattito sessista sul corpo delle donne, qui celebro la loro libertà di espressione”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/02/valentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione/7310206/
+  - https://www.ilfattoquotidiano.it/2023/10/02/valentino-sfila-a-parigi-e-annulla-il-confine-tra-nudita-e-vestito-pierpaolo-piccioli-agghiacciato-dal-dibattito-sessista-sul-corpo-delle-donne-qui-celebro-la-loro-liberta-di-espressione/7310206/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/attualita/
+  - https://www.ilfattoquotidiano.it/2023/10/07/fedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress/7316161/
+  - https://www.ilfattoquotidiano.it/2023/10/07/fedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress/7316161/
+  - https://www.ilfattoquotidiano.it/blog/collaboratoregenerico/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F07%2Ffedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress%2F7316161%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F07%2Ffedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress%2F7316161%2F&text=Fedez%3A+%E2%80%9CHo+perso+met%C3%A0+del+mio+sangue%2C+sono+stato+moribondo.+Tra+le+terapie+anti+depressive+anche+scosse+al+cervello%3A+la+ricchezza+non+rende+immuni+dallo+stress%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F07%2Ffedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress%2F7316161%2F&via=fattoquotidiano
+  - mailto:?subject=Fedez: “Ho perso metà del mio sangue, sono stato moribondo. Tra le terapie anti depressive anche scosse al cervello: la ricchezza non rende immuni dallo stress”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/07/fedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress/7316161/
+  - https://www.ilfattoquotidiano.it/2023/10/07/fedez-ho-perso-meta-del-mio-sangue-sono-stato-moribondo-tra-le-terapie-anti-depressive-anche-scosse-al-cervello-la-ricchezza-non-rende-immuni-dallo-stress/7316161/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/viaggi/
+  - https://www.ilfattoquotidiano.it/2023/10/13/capo-verde-un-viaggio-tra-isole-che-fanno-sognare/7321920/
+  - https://www.ilfattoquotidiano.it/blog/mariannadipilla/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fcapo-verde-un-viaggio-tra-isole-che-fanno-sognare%2F7321920%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fcapo-verde-un-viaggio-tra-isole-che-fanno-sognare%2F7321920%2F&text=Capo+Verde%2C+un+viaggio+tra+isole+che+fanno+sognare&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fcapo-verde-un-viaggio-tra-isole-che-fanno-sognare%2F7321920%2F&via=fattoquotidiano
+  - mailto:?subject=Capo Verde, un viaggio tra isole che fanno sognare&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/13/capo-verde-un-viaggio-tra-isole-che-fanno-sognare/7321920/
+  - https://www.ilfattoquotidiano.it/2023/10/13/capo-verde-un-viaggio-tra-isole-che-fanno-sognare/7321920/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/13/capo-verde-un-viaggio-tra-isole-che-fanno-sognare/7321920/
+  - https://www.ilfattoquotidiano.it/fq-magazine/attualita/
+  - https://www.ilfattoquotidiano.it/2023/10/08/drusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me/7317071/
+  - https://www.ilfattoquotidiano.it/2023/10/08/drusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me/7317071/
+  - https://www.ilfattoquotidiano.it/blog/andrea-conti/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F08%2Fdrusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me%2F7317071%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F08%2Fdrusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me%2F7317071%2F&text=Drusilla+Foer%3A+%E2%80%9CSento+l%E2%80%99esigenza+di+andare+a+Sanremo+a+dire+qualcosa+come+cantante.+Asia+Argento%3F+Bello+lavorare+con+lei%2C+%C3%A8+una+che+sta+sulle+pa%2A%2Ae+come+me%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F08%2Fdrusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me%2F7317071%2F&via=fattoquotidiano
+  - mailto:?subject=Drusilla Foer: “Sento l’esigenza di andare a Sanremo a dire qualcosa come cantante. Asia Argento? Bello lavorare con lei, è una che sta sulle pa**e come me”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/08/drusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me/7317071/
+  - https://www.ilfattoquotidiano.it/2023/10/08/drusilla-foer-sento-lesigenza-di-andare-a-sanremo-a-dire-qualcosa-come-cantante-asia-argento-bello-lavorare-con-lei-e-una-che-sta-sulle-pae-come-me/7317071/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/attualita/
+  - https://www.ilfattoquotidiano.it/2023/10/04/isabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina/7312866/
+  - https://www.ilfattoquotidiano.it/2023/10/04/isabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina/7312866/
+  - https://www.ilfattoquotidiano.it/blog/crossi/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F04%2Fisabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina%2F7312866%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F04%2Fisabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina%2F7312866%2F&text=Isabella+Rossellini+e+la+lezione+di+stile%3A+%E2%80%9CGrazie+per+avermi+lasciato+le+mie+rughe+in+copertina%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F04%2Fisabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina%2F7312866%2F&via=fattoquotidiano
+  - mailto:?subject=Isabella Rossellini e la lezione di stile: “Grazie per avermi lasciato le mie rughe in copertina”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/04/isabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina/7312866/
+  - https://www.ilfattoquotidiano.it/2023/10/04/isabella-rossellini-e-la-lezione-di-stile-grazie-per-avermi-lasciato-le-mie-rughe-in-copertina/7312866/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/viaggi/
+  - https://www.ilfattoquotidiano.it/2023/10/06/voglia-di-weekend-ecco-dove-andare-in-europa/7314055/
+  - https://www.ilfattoquotidiano.it/2023/10/06/voglia-di-weekend-ecco-dove-andare-in-europa/7314055/
+  - https://www.ilfattoquotidiano.it/blog/mariannadipilla/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F06%2Fvoglia-di-weekend-ecco-dove-andare-in-europa%2F7314055%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F06%2Fvoglia-di-weekend-ecco-dove-andare-in-europa%2F7314055%2F&text=Voglia+di+weekend%3F+Ecco+dove+andare+in+Europa&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F06%2Fvoglia-di-weekend-ecco-dove-andare-in-europa%2F7314055%2F&via=fattoquotidiano
+  - mailto:?subject=Voglia di weekend? Ecco dove andare in Europa&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/06/voglia-di-weekend-ecco-dove-andare-in-europa/7314055/
+  - https://www.ilfattoquotidiano.it/2023/10/06/voglia-di-weekend-ecco-dove-andare-in-europa/7314055/#cComments
+  - https://www.ilfattoquotidiano.it/fq-magazine/musica/
+  - https://www.ilfattoquotidiano.it/2023/10/07/salmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo/7316141/
+  - https://www.ilfattoquotidiano.it/2023/10/07/salmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo/7316141/
+  - https://www.ilfattoquotidiano.it/blog/andrea-conti/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F07%2Fsalmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo%2F7316141%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F07%2Fsalmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo%2F7316141%2F&text=Salmo+d%C3%A0+forfait+a+Red+Bull+64+Bars+Live%3A+%E2%80%9CNon+posso+stare+sul+palco+con+persone+con+cui+non+vado+d%E2%80%99accordo.+Non+partecipo+a+questo+circo%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F07%2Fsalmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo%2F7316141%2F&via=fattoquotidiano
+  - mailto:?subject=Salmo dà forfait a Red Bull 64 Bars Live: “Non posso stare sul palco con persone con cui non vado d’accordo. Non partecipo a questo circo”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/07/salmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo/7316141/
+  - https://www.ilfattoquotidiano.it/2023/10/07/salmo-da-forfait-a-red-bull-64-bars-live-non-posso-stare-sul-palco-con-persone-con-cui-non-vado-daccordo-non-partecipo-a-questo-circo/7316141/#cComments
+  - https://promo.tinaba.it/ilfattoquotidiano?utm_source=ifq&utm_medium=banner&utm_campaign=carta-tinaba
+  - https://www.ilfattoquotidiano.it/blog/linguafranca/
+  - https://www.ilfattoquotidiano.it/blog/linguafranca/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fpier-paolo-pasolini-turcs-tal-friul-traduzione-di-graziella-chiarcossi-e-ivan-crico%2F7327898%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fpier-paolo-pasolini-turcs-tal-friul-traduzione-di-graziella-chiarcossi-e-ivan-crico%2F7327898%2F&text=Pier+Paolo+Pasolini%2C+Turcs+tal+friul+%28Traduzione+di+Graziella+Chiarcossi+e+Ivan+Crico%29&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fpier-paolo-pasolini-turcs-tal-friul-traduzione-di-graziella-chiarcossi-e-ivan-crico%2F7327898%2F&via=fattoquotidiano
+  - mailto:?subject=Pier Paolo Pasolini, Turcs tal friul (Traduzione di Graziella Chiarcossi e Ivan Crico)&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/pier-paolo-pasolini-turcs-tal-friul-traduzione-di-graziella-chiarcossi-e-ivan-crico/7327898/
+  - https://www.ilfattoquotidiano.it/2023/10/20/pier-paolo-pasolini-turcs-tal-friul-traduzione-di-graziella-chiarcossi-e-ivan-crico/7327898/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/pier-paolo-pasolini-turcs-tal-friul-traduzione-di-graziella-chiarcossi-e-ivan-crico/7327898/
+  - https://www.ilfattoquotidiano.it/blog/mzetti/
+  - https://www.ilfattoquotidiano.it/blog/mzetti/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F19%2Fi-numeri-dicono-che-gli-italiani-comprano-piu-libri-rispetto-al-pre-pandemia%2F7327343%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F19%2Fi-numeri-dicono-che-gli-italiani-comprano-piu-libri-rispetto-al-pre-pandemia%2F7327343%2F&text=I+numeri+dicono+che+gli+italiani+comprano+pi%C3%B9+libri+rispetto+al+pre-pandemia&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F19%2Fi-numeri-dicono-che-gli-italiani-comprano-piu-libri-rispetto-al-pre-pandemia%2F7327343%2F&via=fattoquotidiano
+  - mailto:?subject=I numeri dicono che gli italiani comprano più libri rispetto al pre-pandemia&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/19/i-numeri-dicono-che-gli-italiani-comprano-piu-libri-rispetto-al-pre-pandemia/7327343/
+  - https://www.ilfattoquotidiano.it/2023/10/19/i-numeri-dicono-che-gli-italiani-comprano-piu-libri-rispetto-al-pre-pandemia/7327343/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/19/i-numeri-dicono-che-gli-italiani-comprano-piu-libri-rispetto-al-pre-pandemia/7327343/
+  - https://www.ilfattoquotidiano.it/blog/mdifazio/
+  - https://www.ilfattoquotidiano.it/blog/mdifazio/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fartecinema-a-napoli-qualcosa-di-intimamente-prezioso%2F7325885%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fartecinema-a-napoli-qualcosa-di-intimamente-prezioso%2F7325885%2F&text=%E2%80%98Artecinema%E2%80%99+a+Napoli%2C+qualcosa+di+intimamente+prezioso&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fartecinema-a-napoli-qualcosa-di-intimamente-prezioso%2F7325885%2F&via=fattoquotidiano
+  - mailto:?subject=‘Artecinema’ a Napoli, qualcosa di intimamente prezioso&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/18/artecinema-a-napoli-qualcosa-di-intimamente-prezioso/7325885/
+  - https://www.ilfattoquotidiano.it/2023/10/18/artecinema-a-napoli-qualcosa-di-intimamente-prezioso/7325885/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/18/artecinema-a-napoli-qualcosa-di-intimamente-prezioso/7325885/
+  - https://www.ilfattoquotidiano.it/blog/lvoce/
+  - https://www.ilfattoquotidiano.it/blog/lvoce/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F17%2Fun-premio-per-la-poesia-che-fa-danno-alla-poesia-e-successo-allo-strega-giovani%2F7325565%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F17%2Fun-premio-per-la-poesia-che-fa-danno-alla-poesia-e-successo-allo-strega-giovani%2F7325565%2F&text=Un+premio+per+la+poesia+che+fa+danno+alla+poesia%3A+%C3%A8+successo+allo+Strega+Giovani&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F17%2Fun-premio-per-la-poesia-che-fa-danno-alla-poesia-e-successo-allo-strega-giovani%2F7325565%2F&via=fattoquotidiano
+  - mailto:?subject=Un premio per la poesia che fa danno alla poesia: è successo allo Strega Giovani&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/17/un-premio-per-la-poesia-che-fa-danno-alla-poesia-e-successo-allo-strega-giovani/7325565/
+  - https://www.ilfattoquotidiano.it/2023/10/17/un-premio-per-la-poesia-che-fa-danno-alla-poesia-e-successo-allo-strega-giovani/7325565/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/17/un-premio-per-la-poesia-che-fa-danno-alla-poesia-e-successo-allo-strega-giovani/7325565/
+  - https://www.ilfattoquotidiano.it/blog/shamadi/
+  - https://www.ilfattoquotidiano.it/blog/shamadi/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F16%2Fa-colpire-della-censura-di-adania-shibli-a-francoforte-e-il-silenzio-della-classe-intellettuale%2F7324286%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F16%2Fa-colpire-della-censura-di-adania-shibli-a-francoforte-e-il-silenzio-della-classe-intellettuale%2F7324286%2F&text=A+colpire+della+censura+di+Adania+Shibli+a+Francoforte+%C3%A8+il+silenzio+della+classe+intellettuale&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F16%2Fa-colpire-della-censura-di-adania-shibli-a-francoforte-e-il-silenzio-della-classe-intellettuale%2F7324286%2F&via=fattoquotidiano
+  - mailto:?subject=A colpire della censura di Adania Shibli a Francoforte è il silenzio della classe intellettuale&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/16/a-colpire-della-censura-di-adania-shibli-a-francoforte-e-il-silenzio-della-classe-intellettuale/7324286/
+  - https://www.ilfattoquotidiano.it/2023/10/16/a-colpire-della-censura-di-adania-shibli-a-francoforte-e-il-silenzio-della-classe-intellettuale/7324286/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/16/a-colpire-della-censura-di-adania-shibli-a-francoforte-e-il-silenzio-della-classe-intellettuale/7324286/
+  - https://www.ilfattoquotidiano.it/blog/gsimonelli/
+  - https://www.ilfattoquotidiano.it/blog/gsimonelli/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F16%2Fche-tempo-che-fa-sul-nove-fabio-fazio-ha-copiato-se-stesso%2F7324317%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F16%2Fche-tempo-che-fa-sul-nove-fabio-fazio-ha-copiato-se-stesso%2F7324317%2F&text=Ho+visto+Che+tempo+che+fa+sul+Nove+e+pensavo+di+essere+su+Rai3%3A+perch%C3%A9+Fazio+ha+copiato+se+stesso%3F&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F16%2Fche-tempo-che-fa-sul-nove-fabio-fazio-ha-copiato-se-stesso%2F7324317%2F&via=fattoquotidiano
+  - mailto:?subject=Ho visto Che tempo che fa sul Nove e pensavo di essere su Rai3: perché Fazio ha copiato se stesso?&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/16/che-tempo-che-fa-sul-nove-fabio-fazio-ha-copiato-se-stesso/7324317/
+  - https://www.ilfattoquotidiano.it/2023/10/16/che-tempo-che-fa-sul-nove-fabio-fazio-ha-copiato-se-stesso/7324317/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/16/che-tempo-che-fa-sul-nove-fabio-fazio-ha-copiato-se-stesso/7324317/
+  - https://www.ilfattoquotidiano.it/blog/glaface/
+  - https://www.ilfattoquotidiano.it/blog/glaface/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F15%2Fcolore-italiano-il-programma-del-festival-respighi-a-bologna-ha-offerto-lascolto-di-quattro-ottimi-musicisti%2F7315140%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F15%2Fcolore-italiano-il-programma-del-festival-respighi-a-bologna-ha-offerto-lascolto-di-quattro-ottimi-musicisti%2F7315140%2F&text=%E2%80%98Colore+italiano%E2%80%99%2C+il+programma+del+Festival+Respighi+a+Bologna+ha+offerto+l%E2%80%99ascolto+di+quattro+ottimi+musicisti&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F15%2Fcolore-italiano-il-programma-del-festival-respighi-a-bologna-ha-offerto-lascolto-di-quattro-ottimi-musicisti%2F7315140%2F&via=fattoquotidiano
+  - mailto:?subject=‘Colore italiano’, il programma del Festival Respighi a Bologna ha offerto l’ascolto di quattro ottimi musicisti&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/15/colore-italiano-il-programma-del-festival-respighi-a-bologna-ha-offerto-lascolto-di-quattro-ottimi-musicisti/7315140/
+  - https://www.ilfattoquotidiano.it/2023/10/15/colore-italiano-il-programma-del-festival-respighi-a-bologna-ha-offerto-lascolto-di-quattro-ottimi-musicisti/7315140/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/15/colore-italiano-il-programma-del-festival-respighi-a-bologna-ha-offerto-lascolto-di-quattro-ottimi-musicisti/7315140/
+  - https://www.ilfattoquotidiano.it/blog/bzagnoli/
+  - https://www.ilfattoquotidiano.it/blog/bzagnoli/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F14%2Ferofame-la-fiera-dellerotismo-di-hannover-questanno-non-ha-novita-temo-che-la-noia-imperi%2F7321341%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F14%2Ferofame-la-fiera-dellerotismo-di-hannover-questanno-non-ha-novita-temo-che-la-noia-imperi%2F7321341%2F&text=EroFame%2C+la+fiera+dell%E2%80%99erotismo+di+Hannover%2C+quest%E2%80%99anno+non+ha+novit%C3%A0%3A+temo+che+la+noia+imperi&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F14%2Ferofame-la-fiera-dellerotismo-di-hannover-questanno-non-ha-novita-temo-che-la-noia-imperi%2F7321341%2F&via=fattoquotidiano
+  - mailto:?subject=EroFame, la fiera dell’erotismo di Hannover, quest’anno non ha novità: temo che la noia imperi&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/14/erofame-la-fiera-dellerotismo-di-hannover-questanno-non-ha-novita-temo-che-la-noia-imperi/7321341/
+  - https://www.ilfattoquotidiano.it/2023/10/14/erofame-la-fiera-dellerotismo-di-hannover-questanno-non-ha-novita-temo-che-la-noia-imperi/7321341/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/14/erofame-la-fiera-dellerotismo-di-hannover-questanno-non-ha-novita-temo-che-la-noia-imperi/7321341/
+  - https://www.ilfattoquotidiano.it/blog/mzetti/
+  - https://www.ilfattoquotidiano.it/blog/mzetti/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fsalone-del-libro-anche-nel-2024-spazio-ai-selfpublisher%2F7320469%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fsalone-del-libro-anche-nel-2024-spazio-ai-selfpublisher%2F7320469%2F&text=Salone+del+Libro%2C+anche+nel+2024+spazio+ai+selfpublisher&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fsalone-del-libro-anche-nel-2024-spazio-ai-selfpublisher%2F7320469%2F&via=fattoquotidiano
+  - mailto:?subject=Salone del Libro, anche nel 2024 spazio ai selfpublisher&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/13/salone-del-libro-anche-nel-2024-spazio-ai-selfpublisher/7320469/
+  - https://www.ilfattoquotidiano.it/2023/10/13/salone-del-libro-anche-nel-2024-spazio-ai-selfpublisher/7320469/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/13/salone-del-libro-anche-nel-2024-spazio-ai-selfpublisher/7320469/
+  - https://www.ilfattoquotidiano.it/blog/ddangelo/
+  - https://www.ilfattoquotidiano.it/blog/ddangelo/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fa-firenze-e-napoli-due-eventi-che-mischiano-contemporaneo-e-antico-cosi-le-opere-si-appropriano-dei-monumenti%2F7322063%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fa-firenze-e-napoli-due-eventi-che-mischiano-contemporaneo-e-antico-cosi-le-opere-si-appropriano-dei-monumenti%2F7322063%2F&text=A+Firenze+e+Napoli+due+eventi+che+mischiano+contemporaneo+e+antico%3A+cos%C3%AC+le+opere+si+appropriano+dei+monumenti&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F13%2Fa-firenze-e-napoli-due-eventi-che-mischiano-contemporaneo-e-antico-cosi-le-opere-si-appropriano-dei-monumenti%2F7322063%2F&via=fattoquotidiano
+  - mailto:?subject=A Firenze e Napoli due eventi che mischiano contemporaneo e antico: così le opere si appropriano dei monumenti&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/13/a-firenze-e-napoli-due-eventi-che-mischiano-contemporaneo-e-antico-cosi-le-opere-si-appropriano-dei-monumenti/7322063/
+  - https://www.ilfattoquotidiano.it/2023/10/13/a-firenze-e-napoli-due-eventi-che-mischiano-contemporaneo-e-antico-cosi-le-opere-si-appropriano-dei-monumenti/7322063/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/13/a-firenze-e-napoli-due-eventi-che-mischiano-contemporaneo-e-antico-cosi-le-opere-si-appropriano-dei-monumenti/7322063/
+  - /
+  - https://www.ilfattoquotidiano.it/privacy-policy/
+  - https://www.ilfattoquotidiano.it/termini-e-condizioni-dutilizzo/
+  - https://www.ilfattoquotidiano.it/la-tua-pubblicita-sul-fatto-quotidiano/
+  - https://www.ilfattoquotidiano.it/redazione/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.ilfattoquotidiano.it/abbonati/
+  - #
+  - https://www.facebook.com/ilFattoQuotidiano
+  - https://www.ilfattoquotidiano.it/2017/10/24/le-notizie-de-ilfattoquotidiano-su-facebook-messenger-ecco-come-riceverle/3932643/
+  - https://www.instagram.com/ilfattoquotidianoit/
+  - https://shop.ilfattoquotidiano.it/newsletter/
+  - https://www.twitter.com/FattoQuotidiano
+  - https://www.youtube.com/antefattoblog
+
+Text Content:
+  FQ Magazine - Il Fatto QuotidianoSostieniciILFATTOQUOTIDIANO.ITSezioniMattanza PodcastPoliticaPalazzi & PotereGiustizia & ImpunitàMedia & RegimeEconomia & LobbyOsservatorio RecoveryZona EuroLavoro & PrecariCronacaMemoriale CoronavirusCronaca NeraMafieMondoAmbiente & VeleniScuolaDirittiCervelli in fugaSocietàTecnologiaScienzaMotoriFQ MagazineFQ SportFQ SaluteVideoBlogFatto da VoiFondazione FQFQ ExtraFQ MillenniumTVLoftPaperFirstCodici ScontoSostenitoriMeteoImmobiliareHomeBlogFatto TVFotoeBookShopAbbonati oraPagina abbonatiGerenza e contattiABBONATIFondazione FQScuola del FattoAbbonatiSearchIFQBurgerIFQSanremo 2023AttualitàCinemaMusicaCulturaViaggiStileTelevisioneWorld NewsSesso & VolentieriThe Man With No IdeaSearchIFQStileIl caldo record mette in crisi la moda: solo a settembre persi 320 milioni. Felloni: “Penalizzate piccole boutique di quartiere e negozi storici”Di Ilaria Mauri e Massimiliano SortinoMusicaEmma a FQMagazine: “Quando ho perso mio papà pensavo “non lo posso più abbracciare”, ora so che le persone che sono andate via ci ascoltano. La rabbia ha fatto posto alla dolcezza”Di Andrea ContiStileMiuccia Prada: “La moda è come la politica, decide la maggioranza ma non si tiene conto di chi non vota”. Il nostro bilancio di un mese di sfilateDi Ilaria MauriStileValentino sfila a Parigi e annulla il confine tra nudità e vestito. Pierpaolo Piccioli: “Agghiacciato dal dibattito sessista sul corpo delle donne, qui celebro la loro libertà di espressione”Di Ilaria MauriAttualitàFedez: “Ho perso metà del mio sangue, sono stato moribondo. Tra le terapie anti depressive anche scosse al cervello: la ricchezza non rende immuni dallo stress”Di F. Q.ViaggiCapo Verde, un viaggio tra isole che fanno sognareDi Marianna Di Pilla - Alpitour WorldAttualitàDrusilla Foer: “Sento l’esigenza di andare a Sanremo a dire qualcosa come cantante. Asia Argento? Bello lavorare con lei, è una che sta sulle pa**e come me”Di Andrea ContiAttualitàIsabella Rossellini e la lezione di stile: “Grazie per avermi lasciato le mie rughe in copertina”Di Claudia RossiViaggiVoglia di weekend? Ecco dove andare in EuropaDi Marianna Di Pilla - Alpitour WorldMusicaSalmo dà forfait a Red Bull 64 Bars Live: “Non posso stare sul palco con persone con cui non vado d’accordo. Non partecipo a questo circo”Di Andrea ContiBlog→LinguafrancaBlog collettivo di traduzione poeticaPasolini, Turcs tal friul (Traduzione di Graziella Chiarcossi e Ivan Crico)Marinella ZettiGiornalista, esperta di editoria digitaleI numeri dicono che gli italiani comprano più libri rispetto al pre-pandemiaMaurizio Di FazioGiornalista e scrittore‘Artecinema’ a Napoli, qualcosa di intimamente preziosoLello VocePoetaUn premio per la poesia che fa danno alla poesia: è successo allo Strega GiovaniShady HamadiScrittoreA colpire della censura di Adania Shibli a Francoforte è il silenzio degli intellettualiGiorgio SimonelliDocente di comunicazione radiotelevisivaHo visto Che tempo che fa sul Nove e pensavo di essere su Rai3: perché Fazio ha copiato se stesso?Giuseppina La FaceDocente universitaria e musicologa'Colore italiano': il programma musicale del Festival Respighi a BolognaBettina ZagnoliSex blogger & art loverEroFame, la fiera dell’erotismo di Hannover, quest’anno non ha novità: temo che la noia imperiMarinella ZettiGiornalista, esperta di editoria digitaleSalone del Libro, anche nel 2024 spazio ai selfpublisherDonatella D'AngeloArchitetto, esperta di Beni CulturaliA Firenze e Napoli due eventi che mischiano contemporaneo e anticoPrivacyTermini e condizioni d'usoFai pubblicità con FQRedazioneFondazione FQAbbonatiCambia impostazioni privacy© 2009 - 2023 SEIF S.p.A. - C.F. e P.IVA 10460121006
+
+Images:
+  - https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/img/svg/logo-tablet.svg
+  - https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/img/svg/fq-magazine.svg
+  - data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=
+  - https://st.ilfattoquotidiano.it/wp-content/uploads/2023/10/11/moda-inverno-1200-1050x551.jpg
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+  - https://st.ilfattoquotidiano.it/wp-content/uploads/2022/09/16/330x80.gif
+
+Keywords:
+  - width
+  - 1080
+  - max
+  - image
+  - preview
+  - large
+  - summary_large_image
+  - FQ
+  - Magazine
+  - Il
+  - Fatto
+  - Quotidiano
+  - fattoquotidiano
+  - the_minimizer
+  - 476465295171
+  - 69hs7d4aa94kjnmj55bnmjm8drg4dslm
+  - apps
+  - googleusercontent
+  - com
+  - https
+  - st
+  - ilfattoquotidiano
+  - it
+  - wp
+  - content
+  - themes
+  - ifq
+  - 2019
+  - assets
+  - icons
+  - touch_196
+  - pngBlog
+  - Stile
+  - Musica
+  - Stile
+  - Stile
+  - Attualità
+  - Viaggi
+  - Attualità
+  - Attualità
+  - Viaggi
+  - Musica
+  - ABBONATI
+
+Keyword Density:
+  width: 0.0
+  1080: 0.0
+  max: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  summary_large_image: 0.0
+  FQ: 0.34602076124567477
+  Magazine: 0.34602076124567477
+  Il: 0.0
+  Fatto: 0.6920415224913495
+  Quotidiano: 0.0
+  fattoquotidiano: 0.0
+  the_minimizer: 0.0
+  476465295171: 0.0
+  69hs7d4aa94kjnmj55bnmjm8drg4dslm: 0.0
+  apps: 0.0
+  googleusercontent: 0.0
+  com: 0.0
+  https: 0.0
+  st: 0.0
+  ilfattoquotidiano: 0.0
+  it: 0.0
+  wp: 0.0
+  content: 0.0
+  themes: 0.0
+  ifq: 0.0
+  2019: 0.0
+  assets: 0.0
+  icons: 0.0
+  touch_196: 0.0
+  pngBlog: 0.0
+  Stile: 0.34602076124567477
+  Musica: 0.0
+  Attualità: 0.0
+  Viaggi: 0.0
+  ABBONATI: 0.0
+
+Canonical URL:
+  https://www.ilfattoquotidiano.it/fq-magazine/
+
+Language:
+  it-IT
+
+Charset:
+  None
+
+Broken Links:

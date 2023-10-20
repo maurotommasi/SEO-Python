@@ -1,0 +1,287 @@
+
+Meta Tags:
+  viewport: width=1080
+  robots: max-image-preview:large
+  twitter:card: summary_large_image
+  twitter:description: Per segnalare notizie e comunicare con i giornalisti de ilfattoquotidiano.it, scrivi a redazioneweb@ilfattoquotidiano.it Per inviare richieste di rettifica o per questioni legali l’indirizzo è legale.segreteria@ilfattoquotidiano.it (PEC: legale@pec.ilfattoquotidiano.com) Se vuoi segnalare problemi tecnici al sito (registrazione, consultazione, lettura del tuo abbonamento) scrivi al supporto tecnico.
+  twitter:title: Redazione ilfattoquotidiano.it - Il Fatto Quotidiano
+  twitter:site: @fattoquotidiano
+  twitter:creator: @fattoquotidiano
+  google-signin-client_id: 476465295171-69hs7d4aa94kjnmj55bnmjm8drg4dslm.apps.googleusercontent.com
+  msapplication-tileimage: https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/icons/touch_196.png
+
+Headings:
+  h1: []
+  h2: []
+  h3: []
+  h4: ['']
+  h5: ['ABBONATI']
+  h6: []
+
+Links:
+  - https://shop.ilfattoquotidiano.it/abbonamento-sostenitore-sostieni-ilfattoquotidiano/
+  - /
+  - #
+  - https://www.ilfattoquotidiano.it/mattanza-podcast/
+  - https://www.ilfattoquotidiano.it/politica-palazzo/
+  - https://www.ilfattoquotidiano.it/palazzi-potere/
+  - https://www.ilfattoquotidiano.it/giustizia-impunita/
+  - https://www.ilfattoquotidiano.it/media-regime/
+  - https://www.ilfattoquotidiano.it/economia-lobby/
+  - https://www.ilfattoquotidiano.it/economia-lobby/osservatorio-recovery/
+  - https://www.ilfattoquotidiano.it/zona-euro/
+  - https://www.ilfattoquotidiano.it/lavoro-precari/
+  - https://www.ilfattoquotidiano.it/cronaca/
+  - #
+  - https://www.ilfattoquotidiano.it/cronaca/memoriale-coronavirus/
+  - https://www.ilfattoquotidiano.it/cronaca-nera/
+  - https://www.ilfattoquotidiano.it/mafie/
+  - https://www.ilfattoquotidiano.it/mondo/
+  - https://www.ilfattoquotidiano.it/ambiente-veleni/
+  - https://www.ilfattoquotidiano.it/scuola/
+  - https://www.ilfattoquotidiano.it/diritti/
+  - https://www.ilfattoquotidiano.it/cervelli-fuga/
+  - https://www.ilfattoquotidiano.it/societa/
+  - https://www.ilfattoquotidiano.it/tecnologia/
+  - https://www.ilfattoquotidiano.it/scienza/
+  - https://www.ilfattoquotidiano.it/motori-2-0/
+  - https://www.ilfattoquotidiano.it/fq-magazine/
+  - https://www.ilfattoquotidiano.it/sport-miliardi/
+  - https://www.ilfattoquotidiano.it/salute/
+  - /video/
+  - https://www.ilfattoquotidiano.it/blog/
+  - https://fattodavoi.ilfattoquotidiano.it/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.ilfattoquotidiano.it/in-edicola/
+  - https://www.fqmillennium.it/
+  - https://www.tvloft.it/
+  - https://www.paperfirst.it/
+  - https://www.codicesconto.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/sostenitori/
+  - https://meteo.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/immobiliare/
+  - http://www.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/blog/
+  - http://tv.ilfattoquotidiano.it/
+  - http://www.flickr.com/photos/ilfattoquotidiano/
+  - http://ebook.ilfattoquotidiano.it/
+  - https://shop.ilfattoquotidiano.it/
+  - https://shop.ilfattoquotidiano.it/abbonamenti/
+  - http://shop.ilfattoquotidiano.it/abbonati/
+  - https://www.ilfattoquotidiano.it/contatti/
+  - https://www.facebook.com/ilFattoQuotidiano
+  - https://www.ilfattoquotidiano.it/2017/10/24/le-notizie-de-ilfattoquotidiano-su-facebook-messenger-ecco-come-riceverle/3932643/
+  - https://www.instagram.com/ilfattoquotidianoit/
+  - https://shop.ilfattoquotidiano.it/newsletter/
+  - https://www.twitter.com/FattoQuotidiano
+  - https://www.youtube.com/antefattoblog
+  - /abbonati/
+  - /
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.scuoladelfatto.it/
+  - /abbonati/
+  - https://www.ilfattoquotidiano.it/?s=&orderby=data#ifq_search_title
+  - mailto:redazioneweb@ilfattoquotidiano.it
+  - mailto:legale.segreteria@ilfattoquotidiano.it
+  - mailto:legale@pec.ilfattoquotidiano.com
+  - http://www.ilfattoquotidiano.it/contatti/segnala-un-problema-tecnico/
+  - /
+  - https://www.ilfattoquotidiano.it/privacy-policy/
+  - https://www.ilfattoquotidiano.it/termini-e-condizioni-dutilizzo/
+  - https://www.ilfattoquotidiano.it/la-tua-pubblicita-sul-fatto-quotidiano/
+  - https://www.ilfattoquotidiano.it/redazione/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.ilfattoquotidiano.it/abbonati/
+  - #
+  - https://www.facebook.com/ilFattoQuotidiano
+  - https://www.ilfattoquotidiano.it/2017/10/24/le-notizie-de-ilfattoquotidiano-su-facebook-messenger-ecco-come-riceverle/3932643/
+  - https://www.instagram.com/ilfattoquotidianoit/
+  - https://shop.ilfattoquotidiano.it/newsletter/
+  - https://www.twitter.com/FattoQuotidiano
+  - https://www.youtube.com/antefattoblog
+  - #
+  - https://shop.ilfattoquotidiano.it/abbonati-ora/?step=2&buy=256540&coupon=sostenitori-cookie-wall
+  - https://shop.ilfattoquotidiano.it/login/
+  - /privacy-policy/#cookie-policy
+
+Text Content:
+  Redazione ilfattoquotidiano.it - Il Fatto QuotidianoSostieniciILFATTOQUOTIDIANO.ITSezioniMattanza PodcastPoliticaPalazzi & PotereGiustizia & ImpunitàMedia & RegimeEconomia & LobbyOsservatorio RecoveryZona EuroLavoro & PrecariCronacaMemoriale CoronavirusCronaca NeraMafieMondoAmbiente & VeleniScuolaDirittiCervelli in fugaSocietàTecnologiaScienzaMotoriFQ MagazineFQ SportFQ SaluteVideoBlogFatto da VoiFondazione FQFQ ExtraFQ MillenniumTVLoftPaperFirstCodici ScontoSostenitoriMeteoImmobiliareHomeBlogFatto TVFotoeBookShopAbbonati oraPagina abbonatiGerenza e contattiABBONATIFondazione FQScuola del FattoAbbonatiSearchIFQBurgerIFQSearchIFQPer segnalare notizie e comunicare con i giornalisti deilfattoquotidiano.it, scrivi aredazioneweb@ilfattoquotidiano.itPer inviare richieste di rettifica o per questioni legali l’indirizzo èlegale.segreteria@ilfattoquotidiano.it(PEC:legale@pec.ilfattoquotidiano.com)Se vuoi segnalareproblemi tecnicial sito (registrazione, consultazione, lettura del tuo abbonamento) scrivi alsupporto tecnico.PrivacyTermini e condizioni d'usoFai pubblicità con FQRedazioneFondazione FQAbbonatiCambia impostazioni privacy© 2009 - 2023 SEIF S.p.A. - C.F. e P.IVA 10460121006Caro navigatore, cara navigatrice,non riesci a leggere ilfattoquotidiano.it perché hai negato i consensi relativi alla pubblicità. Per continuare a leggerci accetta i consensi o diventa nostro Sostenitore (in questo modo navigherai senza nessuna inserzione).Ti ricordiamo che il nostro lavoro ha un costo ripagato dalla pubblicità e dai sostenitori. Il tuo aiuto è per noi indispensabile.Accetta i consensiRifiuta e SostieniciGià abbonato? AccediScopri di piùCosa implicano le due scelte che ti proponiamo:Se clicchi“Accetta i consensi”acconsenti in questo modo al trattamento dei tuoi dati personali mediante l'impiego di tutti i cookie presenti sul sito, fermo restando la possibilità di revocare il consenso in qualunque momento. Navigherai in modo totalmente gratuito e potrai visualizzare fino ad un massimo di 10 articoli al mese, e vedrai la pubblicità.Che cosa sono i cookie?Se clicchi su“Rifiuta e Sostienici”sottoscrivi un abbonamento Sostenitore a “ilfattoquotidiano.it”, al costo promozionale di 1€ al mese per 3 mesi. A decorrere dal quarto mese il costo dell'abbonamento diverrà di 5,99€ al mese, il tutto mantenendo le tue attuali impostazioni. Da abbonato potrai navigare senza alcun tipo di pubblicità.
+
+Images:
+  - https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/img/svg/logo-desktop.svg
+  - data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=
+
+Keywords:
+  - width
+  - 1080
+  - max
+  - image
+  - preview
+  - large
+  - summary_large_image
+  - Per
+  - segnalare
+  - notizie
+  - e
+  - comunicare
+  - con
+  - i
+  - giornalisti
+  - de
+  - ilfattoquotidiano
+  - it
+  - scrivi
+  - a
+  - redazioneweb
+  - ilfattoquotidiano
+  - it
+  - Per
+  - inviare
+  - richieste
+  - di
+  - rettifica
+  - o
+  - per
+  - questioni
+  - legali
+  - l
+  - indirizzo
+  - è
+  - legale
+  - segreteria
+  - ilfattoquotidiano
+  - it
+  - PEC
+  - legale
+  - pec
+  - ilfattoquotidiano
+  - com
+  - Se
+  - vuoi
+  - segnalare
+  - problemi
+  - tecnici
+  - al
+  - sito
+  - registrazione
+  - consultazione
+  - lettura
+  - del
+  - tuo
+  - abbonamento
+  - scrivi
+  - al
+  - supporto
+  - tecnico
+  - Redazione
+  - ilfattoquotidiano
+  - it
+  - Il
+  - Fatto
+  - Quotidiano
+  - fattoquotidiano
+  - fattoquotidiano
+  - 476465295171
+  - 69hs7d4aa94kjnmj55bnmjm8drg4dslm
+  - apps
+  - googleusercontent
+  - com
+  - https
+  - st
+  - ilfattoquotidiano
+  - it
+  - wp
+  - content
+  - themes
+  - ifq
+  - 2019
+  - assets
+  - icons
+  - touch_196
+  - png
+  - ABBONATI
+
+Keyword Density:
+  width: 0.0
+  1080: 0.0
+  max: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  summary_large_image: 0.0
+  Per: 0.0
+  segnalare: 0.6369426751592357
+  notizie: 0.6369426751592357
+  e: 0.0
+  comunicare: 0.6369426751592357
+  con: 0.0
+  i: 0.0
+  giornalisti: 0.6369426751592357
+  de: 0.0
+  ilfattoquotidiano: 0.0
+  it: 0.0
+  scrivi: 1.2738853503184715
+  a: 0.0
+  redazioneweb: 0.0
+  inviare: 0.6369426751592357
+  richieste: 0.6369426751592357
+  di: 0.0
+  rettifica: 0.6369426751592357
+  o: 0.0
+  per: 0.0
+  questioni: 0.6369426751592357
+  legali: 0.6369426751592357
+  l: 0.0
+  indirizzo: 0.6369426751592357
+  è: 0.0
+  legale: 0.6369426751592357
+  segreteria: 0.0
+  PEC: 0.6369426751592357
+  pec: 0.6369426751592357
+  com: 0.0
+  Se: 0.0
+  vuoi: 0.6369426751592357
+  problemi: 0.0
+  tecnici: 0.0
+  al: 0.0
+  sito: 1.2738853503184715
+  registrazione: 0.6369426751592357
+  consultazione: 0.6369426751592357
+  lettura: 0.6369426751592357
+  del: 0.0
+  tuo: 0.0
+  abbonamento: 1.2738853503184715
+  supporto: 0.0
+  tecnico: 0.0
+  Redazione: 0.6369426751592357
+  Il: 0.0
+  Fatto: 0.6369426751592357
+  Quotidiano: 0.0
+  fattoquotidiano: 0.0
+  476465295171: 0.0
+  69hs7d4aa94kjnmj55bnmjm8drg4dslm: 0.0
+  apps: 0.0
+  googleusercontent: 0.0
+  https: 0.0
+  st: 0.0
+  wp: 0.0
+  content: 0.0
+  themes: 0.0
+  ifq: 0.0
+  2019: 0.0
+  assets: 0.0
+  icons: 0.0
+  touch_196: 0.0
+  png: 0.0
+  ABBONATI: 0.0
+
+Canonical URL:
+  https://www.ilfattoquotidiano.it/redazione/
+
+Language:
+  it-IT
+
+Charset:
+  None
+
+Broken Links:

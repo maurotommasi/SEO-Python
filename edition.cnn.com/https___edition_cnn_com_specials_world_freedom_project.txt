@@ -1,0 +1,281 @@
+
+Meta Tags:
+  robots: index,follow
+  googlebot: noarchive
+  viewport: width=device-width, initial-scale=1
+  title: The CNN Freedom Project â ending modern-day slavery
+  description: Ending modern-day slavery
+  section: world
+  source: CNN
+  subsection: freedom-project
+  application-name: CNN
+  twitter:card: summary_large_image
+  twitter:site: @cnn
+  twitter:site:id: 759251
+  twitter:creator: @cnn
+
+Headings:
+  h1: ['']
+  h2: ['Ending modern-day slavery', 'Latest Stories', 'Our Mission', 'Video', '#MyFreedomDay', 'Freedom University', 'Fight Back', 'Featured Articles', 'The Team']
+  h3: ['Slavery is not a thing of the past.', 'Slavery Explained', 'Hear from the Experts', 'Anonymously report a case of human trafficking', 'How you can help', 'Anyone can make a difference']
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+  - https://www.cnn.com
+  - #top
+  - #latest
+  - #mission
+  - #video
+  - #livefyre
+  - #freedomu
+  - #fightback
+  - #featured
+  - #team
+  - https://www.cnn.com/interactive/2023/myfreedomday-signs/
+  - https://www.instagram.com/p/B8wXB-agMId/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8wXB-agMId/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8yk80UhndY/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8yk80UhndY/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8tfmbVJL6N/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8tfmbVJL6N/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8smEG2JFG6/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8smEG2JFG6/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8yOyv1BoA_/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8yOyv1BoA_/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8bsvpNndbI/?utm_source=ig_embed&utm_campaign=loading
+  - https://www.instagram.com/p/B8bsvpNndbI/?utm_source=ig_embed&utm_campaign=loading
+  - https://twitter.com/ISSCommunity?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/myfreedomday?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/LIgr9wPVja
+  - https://twitter.com/AmbatovyIS/status/1232904663600697344?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/tDeSTKK7xM
+  - https://twitter.com/AIS_Eagles/status/1232768447018340354?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MYFREEDOMDAY?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/ISFlgJDTCN
+  - https://twitter.com/GLIS_MALABO/status/1232329492909215745?ref_src=twsrc%5Etfw
+  - https://twitter.com/usainbolt?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/0r1O3isQUE
+  - https://twitter.com/cnnsport/status/1230465875372675072?ref_src=twsrc%5Etfw
+  - https://twitter.com/S10Bird?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/u4Z1oO6aHL
+  - https://twitter.com/cnnsport/status/1229434128308854791?ref_src=twsrc%5Etfw
+  - https://twitter.com/InterMiamiCF?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/myfreedomday?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/b2j1c9IzGo
+  - https://t.co/tBhmK2EJzZ
+  - https://twitter.com/CNN/status/1233606853113851905?ref_src=twsrc%5Etfw
+  - https://twitter.com/BronzeBomber?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://t.co/0IL74vQWZv
+  - https://twitter.com/cnnsport/status/1227968464624783360?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://twitter.com/darlingtonnagbe?ref_src=twsrc%5Etfw
+  - https://twitter.com/ColumbusCrewSC?ref_src=twsrc%5Etfw
+  - https://t.co/RMgl1gKoPf
+  - https://twitter.com/CNNFC/status/1227200089694908416?ref_src=twsrc%5Etfw
+  - https://twitter.com/hashtag/MyFreedomDay?src=hash&ref_src=twsrc%5Etfw
+  - https://twitter.com/MotoGP?ref_src=twsrc%5Etfw
+  - https://twitter.com/FabioQ20?ref_src=twsrc%5Etfw
+  - https://t.co/TMuvSwXf1z
+  - https://twitter.com/CNNFreedom/status/1232274051000872960?ref_src=twsrc%5Etfw
+  - https://www.cnn.com/2018/06/29/world/freedom-project-educational-materials-trafficking/index.html
+  - https://www.cnn.com/videos/world/2017/01/30/cotton-child-labour-my-freedom-day.cnn
+  - https://www.cnn.com/videos/world/2017/01/30/chocolate-child-labour-my-freedom-day.cnn
+  - https://www.cnn.com/videos/world/2017/01/30/cobalt-mining-slavery-my-freedom-day.cnn
+  - http://www.cnn.com/video/data/2.0/video/world/2016/01/07/spc-freedom-project-harvard-panel.cnn.html
+  - http://www.cnn.com/video/data/2.0/video/world/2017/12/11/cfp-rome-panel-end-human-trafficking.cnn.html
+  - https://www.cnn.com/videos/world/2012/10/16/ctw-debt-bondage-trafficking-tea-shrimp-kara.cnn
+  - https://humantraffickinghotline.org/report-trafficking
+  - https://csiworld.org/report-human-trafficking
+  - https://www.cnn.com/2018/03/05/world/anti-trafficking-organizations-around-the-world/index.html
+  - #
+  - https://www.cnn.com/2016/02/18/world/slavery-what-you-can-do/index.html
+  - https://www.cnn.com/videos/world/2015/05/06/spc-cfp-mozambique-or-bust.cnn
+  - https://www.cnn.com/videos/world/2015/05/07/spc-cfp-operation-hope.cnn
+  - http://www.cnn.com/video/data/2.0/video/world/2018/03/03/gang-sex-trafficking-update-2011.cnn.html
+  - https://www.facebook.com/CNNFreedom/
+  - https://www.facebook.com/CNNFreedom/
+  - https://twitter.com/leifcoorlim
+  - https://twitter.com/leifcoorlim
+  - https://twitter.com/mark_tutton
+  - https://twitter.com/mark_tutton
+
+Text Content:
+  The CNN Freedom Project â ending modern-day slaveryThe CNN Freedom ProjectLatest StoriesOur MissionVideo#MyFreedomDayFreedom UniversityFight BackFeatured ArticlesThe TeamEnding modern-day slaveryLatest StoriesLoad moreOur MissionSince 2011 CNN has been shining a light on modern-day slavery.Traveling the world to unravel the tangle of criminal enterprises trading in human life.Amplifying the voices of survivors.Holding governments and businesses accountable.Slavery is not a thing of the past.Videofilterssex traffickingforced labormigrantschildrendocumentariesseriesfighting backLoad more#MyFreedomDayTake a closer look atthe signs of modern slavery.View this post on InstagramA post shared by @NSMYFREEDOMDAY (@nsmyfreedomday)onFeb 19, 2020 at 8:48am PSTView this post on InstagramA post shared by Miss Lies (@artteacherlies)onFeb 20, 2020 at 5:24am PSTView this post on InstagramA post shared by á´s. sÊá´á´á´á´Êá´ á´á´s (@mssheppardsclassroom_acs)onFeb 18, 2020 at 6:04am PSTView this post on InstagramA post shared by Summer Dickinson (@mrsdickinsonsclassacs)onFeb 17, 2020 at 9:47pm PSTView this post on InstagramA post shared by Puzzle Art Educational academy (@puzzleartacademy)onFeb 20, 2020 at 2:11am PSTView this post on InstagramA post shared by UNICEF x Temple (@unicefxtemple)onFeb 11, 2020 at 8:10am PSTHappening NOW!! Our students called us out! Recently a beautiful tree around our school was cut down. Our kids were outraged and wanted an explanation. Kudos to Mr. Denis and Ms Lydia for coming to AIS to explain to our students.@ISSCommunity#myfreedomdaypic.twitter.com/LIgr9wPVja— Ambatovy International School (@AmbatovyIS)February 27, 2020March 11th is#MyFreedomDay. Join our secondary school students by posting an answer to the question: 'What Does Freedom Mean To You?' on your social media accounts. Don't forget to include the hashtag#MyFreedomDaypic.twitter.com/tDeSTKK7xM— Atlanta International School (@AIS_Eagles)February 26, 2020#MYFREEDOMDAYpic.twitter.com/ISFlgJDTCN— Gloryland International School Malabo (@GLIS_MALABO)February 25, 2020Legendary sprinter@usainboltsays freedom means no one telling you what to do.Tell us, using the hashtag#MyFreedomDay, what freedom means to youpic.twitter.com/0r1O3isQUE— CNN Sport (@cnnsport)February 20, 2020For three-time WNBA champion@S10Bird, freedom means having the ability to speak your mind.What does freedom mean to you? Tell us, using the hashtag#MyFreedomDaypic.twitter.com/u4Z1oO6aHL— CNN Sport (@cnnsport)February 17, 2020David Beckham says the âfreedom to dreamâ is the motive of his new MLS club@InterMiamiCF. Ahead of#myfreedomday, tell us what freedom means to you athttps://t.co/b2j1c9IzGopic.twitter.com/tBhmK2EJzZ— CNN (@CNN)February 29, 2020WBC world heavyweight champion@BronzeBombertells CNN what freedom means to him#MyFreedomDaypic.twitter.com/0IL74vQWZv— CNN Sport (@cnnsport)February 13, 2020Ahead of#MyFreedomDay2020, we asked@darlingtonnagbeof@ColumbusCrewSCwhat freedom means to him. Hereâs what he said.pic.twitter.com/RMgl1gKoPf— CNN Football (@CNNFC)February 11, 2020Ahead of#MyFreedomDay,@MotoGPstar Fabio Quartararo@FabioQ20explains what freedom means to him.pic.twitter.com/TMuvSwXf1z— CNN Freedom Project (@CNNFreedom)February 25, 2020Freedom UniversityFor educators: Resources for teaching about human traffickingSlavery ExplainedClothes: The uncomfortable truthChocolate: The dark ingredientCell phones: The secret inside your batteryHear from the ExpertsConfronting modern-day slaverySolutions to end human traffickingDebt bondage in tea and shrimp industryFight BackAnonymously report a case of human traffickingUSGlobalHow you can helpReach out to global anti-trafficking organizationsTweet to raise awareness of modern-day slaveryMore ways to take actionAnyone can make a differenceDonated bras help trafficking survivors make a livingStrangers help boy recover from brutal attackCitizen activist boosts hotel anti-trafficking effortsFeatured ArticlesLoad moreThe TeamCNN Freedom Project on FacebookLeif Coorlim@LeifCoorlimMark Tutton@Mark_Tutton
+
+Images:
+  - ./media/fp-logo.png
+  - https://cdn.cnn.com/cnnnext/dam/assets/180620140419-school-students-stock-super-169.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/170127153243-sewing-cotton-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/170127152927-cocoa-plantation-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/170127153154-cobalt-mining-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/180213170557-modern-day-slavery-protest-la-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/131030134715-lampedusa-immigrant-boat-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/180305121414-indian-tea-plantation-story-top.jpg
+  - ./media/glove.png
+  - https://cdn.cnn.com/cnn/dam/assets/130215214846-cfp-mozambique-or-bust-part-3-00004814-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/150507111859-spc-cfp-operation-hope-00341004-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/180303094843-gang-sex-trafficking-update-2011-00000000-story-top.jpg
+  - ./media/fb-link.png
+  - https://cdn.cnn.com/cnn/dam/assets/140929103447-leif-coorlim-profile-image-story-top.jpg
+  - https://cdn.cnn.com/cnn/dam/assets/140929104929-mark-tutton-profile-image-story-top.jpg
+
+Keywords:
+  - index
+  - follow
+  - noarchive
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - The
+  - CNN
+  - Freedom
+  - Project
+  - â
+  - ending
+  - modern
+  - day
+  - slavery
+  - Ending
+  - modern
+  - day
+  - slavery
+  - world
+  - CNN
+  - freedom
+  - project
+  - CNN
+  - summary_large_image
+  - cnn
+  - 759251
+  - cnn
+  - Ending
+  - modern
+  - day
+  - slavery
+  - Latest
+  - Stories
+  - Our
+  - Mission
+  - Video
+  - MyFreedomDay
+  - Freedom
+  - University
+  - Fight
+  - Back
+  - Featured
+  - Articles
+  - The
+  - Team
+  - Slavery
+  - is
+  - not
+  - a
+  - thing
+  - of
+  - the
+  - past
+  - Slavery
+  - Explained
+  - Hear
+  - from
+  - the
+  - Experts
+  - Anonymously
+  - report
+  - a
+  - case
+  - of
+  - human
+  - trafficking
+  - How
+  - you
+  - can
+  - help
+  - Anyone
+  - can
+  - make
+  - a
+  - difference
+
+Keyword Density:
+  index: 0.0
+  follow: 0.0
+  noarchive: 0.0
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  The: 0.0
+  CNN: 3.374233128834356
+  Freedom: 3.9877300613496933
+  Project: 0.9202453987730062
+  â: 0.0
+  ending: 0.3067484662576687
+  modern: 0.3067484662576687
+  day: 0.0
+  slavery: 0.0
+  Ending: 0.3067484662576687
+  world: 0.6134969325153374
+  freedom: 3.9877300613496933
+  project: 0.9202453987730062
+  summary_large_image: 0.0
+  cnn: 3.374233128834356
+  759251: 0.0
+  Latest: 0.0
+  Stories: 0.0
+  Our: 0.0
+  Mission: 0.0
+  Video: 0.0
+  MyFreedomDay: 1.2269938650306749
+  University: 0.0
+  Fight: 0.0
+  Back: 0.0
+  Featured: 0.0
+  Articles: 0.0
+  Team: 0.0
+  Slavery: 0.0
+  is: 0.0
+  not: 0.0
+  a: 0.0
+  thing: 0.3067484662576687
+  of: 0.0
+  the: 0.0
+  past: 0.0
+  Explained: 0.0
+  Hear: 0.0
+  from: 0.0
+  Experts: 0.0
+  Anonymously: 0.0
+  report: 0.3067484662576687
+  case: 0.3067484662576687
+  human: 1.2269938650306749
+  trafficking: 0.3067484662576687
+  How: 0.0
+  you: 0.0
+  can: 0.0
+  help: 0.6134969325153374
+  Anyone: 0.0
+  make: 0.6134969325153374
+  difference: 0.0
+
+Canonical URL:
+  https://www.cnn.com/interactive/2018/specials/freedom-project/
+
+Language:
+  en-US
+
+Charset:
+  utf-8
+
+Broken Links:

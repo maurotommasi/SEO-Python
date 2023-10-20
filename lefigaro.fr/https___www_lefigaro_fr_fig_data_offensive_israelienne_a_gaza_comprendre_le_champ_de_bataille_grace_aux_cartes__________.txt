@@ -1,0 +1,274 @@
+
+Meta Tags:
+  description: CARTES â Alors que l'Ãtat hÃ©breu exige l'Ã©vacuation du nord de la bande de Gaza et intensifie ses frappes sur le Hamas, le risque d'un dÃ©sastre humanitaire se profile.
+  viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  robots: max-snippet:-1, max-image-preview:large, max-video-preview:-1
+  keywords: IsraÃ«l, Hamas, Gaza, Conflit, Guerre, Cisjordanie, Palestine, Infographie, Cartes
+  twitter:card: summary_large_image
+  twitter:site: Le_Figaro
+  twitter:creator: Le_Figaro
+  twitter:title: Guerre IsraÃ«l-Hamas : le terrain d'une possible offensive terrestre dÃ©cryptÃ©s grÃ¢ce aux cartes
+  twitter:description: CARTES â Alors que l'Ãtat hÃ©breu exige l'Ã©vacuation du nord de la bande de Gaza et intensifie ses frappes sur le Hamas, le risque d'un dÃ©sastre humanitaire se profile.
+  next-head-count: 30
+
+Headings:
+  h1: ["Guerre IsraÃ«l-Hamas : le terrain d'une possible offensive terrestre dÃ©cryptÃ© grÃ¢ce aux cartes"]
+  h2: ['CrÃ©dits']
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+  - http://www.lefigaro.fr/
+  - https://www.lefigaro.fr/auteur/arthur-bijotat
+  - https://www.lefigaro.fr/auteur/dario-ingiusto
+  - https://www.lefigaro.fr/auteur/arthur-bijotat
+  - https://www.lefigaro.fr/auteur/dario-ingiusto
+  - https://lefigaro.fr/dossier/fig-data-infographies-datavisualisation
+  - mailto:?subject=Le%20Figaro%20%C3%A0%20lire%20&body=%0A%0A%0A%0Ahttps://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+  - https://twitter.com/intent/tweet?text=https://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+  - mailto:?subject=Le%20Figaro%20%C3%A0%20lire%20&body=%0A%0A%0A%0Ahttps://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+  - https://twitter.com/intent/tweet?text=https://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+  - http://www.lefigaro.fr/
+  - https://lefigaro.fr/dossier/fig-data-infographies-datavisualisation
+
+Text Content:
+  Guerre IsraÃ«l-Hamas : le terrain d'une possible offensive terrestre dÃ©cryptÃ©s grÃ¢ce aux cartesGuerre IsraÃ«l-Hamas : le terrain d'une possible offensive terrestre dÃ©cryptÃ© grÃ¢ce aux cartesParArthur BijotatetDario IngiustoParArthur BijotatetDario IngiustopourFig DataPubliÃ© le12 octobre 2023, mis Ã  jour le 13 octobre 2023CARTES âAlors que l'Ãtat hÃ©breu exige l'Ã©vacuation du nord de la bande de Gaza et intensifie ses frappes sur le Hamas, le risque d'un dÃ©sastre humanitaire se profile.CrÃ©ditsRÃDACTIONArthur BijotatCARTOGRAPHIEDario IngiustoRÃDACTION EN CHEFStÃ©phane SaulnierRÃALISATION TECHNIQUENicolas DunisMaxime LoustaletSOURCESOpenStreetMapLiveUAMapHaaretzThe Times of IsraÃ«lYediot AharonotOCHAIsraeli Defense ForcesBâtselemWarMapper
+
+Images:
+
+Keywords:
+  - CARTES
+  - â
+  - Alors
+  - que
+  - l
+  - Ã
+  - tat
+  - hÃ
+  - breu
+  - exige
+  - l
+  - Ã
+  - vacuation
+  - du
+  - nord
+  - de
+  - la
+  - bande
+  - de
+  - Gaza
+  - et
+  - intensifie
+  - ses
+  - frappes
+  - sur
+  - le
+  - Hamas
+  - le
+  - risque
+  - d
+  - un
+  - dÃ
+  - sastre
+  - humanitaire
+  - se
+  - profile
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - 0
+  - maximum
+  - scale
+  - 1
+  - 0
+  - user
+  - scalable
+  - no
+  - max
+  - snippet
+  - 1
+  - max
+  - image
+  - preview
+  - large
+  - max
+  - video
+  - preview
+  - 1
+  - IsraÃ
+  - l
+  - Hamas
+  - Gaza
+  - Conflit
+  - Guerre
+  - Cisjordanie
+  - Palestine
+  - Infographie
+  - Cartes
+  - summary_large_image
+  - Le_Figaro
+  - Le_Figaro
+  - Guerre
+  - IsraÃ
+  - l
+  - Hamas
+  - le
+  - terrain
+  - d
+  - une
+  - possible
+  - offensive
+  - terrestre
+  - dÃ
+  - cryptÃ
+  - s
+  - grÃ
+  - ce
+  - aux
+  - cartes
+  - CARTES
+  - â
+  - Alors
+  - que
+  - l
+  - Ã
+  - tat
+  - hÃ
+  - breu
+  - exige
+  - l
+  - Ã
+  - vacuation
+  - du
+  - nord
+  - de
+  - la
+  - bande
+  - de
+  - Gaza
+  - et
+  - intensifie
+  - ses
+  - frappes
+  - sur
+  - le
+  - Hamas
+  - le
+  - risque
+  - d
+  - un
+  - dÃ
+  - sastre
+  - humanitaire
+  - se
+  - profile
+  - 30Guerre
+  - IsraÃ
+  - l
+  - Hamas
+  - le
+  - terrain
+  - d
+  - une
+  - possible
+  - offensive
+  - terrestre
+  - dÃ
+  - cryptÃ
+  - grÃ
+  - ce
+  - aux
+  - cartes
+  - CrÃ
+  - dits
+
+Keyword Density:
+  CARTES: 0.0
+  â: 0.0
+  Alors: 0.0
+  que: 0.0
+  l: 0.0
+  Ã: 2.2222222222222223
+  tat: 0.0
+  hÃ: 0.0
+  breu: 0.0
+  exige: 2.2222222222222223
+  vacuation: 0.0
+  du: 0.0
+  nord: 2.2222222222222223
+  de: 0.0
+  la: 0.0
+  bande: 2.2222222222222223
+  Gaza: 2.2222222222222223
+  et: 0.0
+  intensifie: 2.2222222222222223
+  ses: 0.0
+  frappes: 2.2222222222222223
+  sur: 0.0
+  le: 0.0
+  Hamas: 2.2222222222222223
+  risque: 2.2222222222222223
+  d: 0.0
+  un: 0.0
+  dÃ: 0.0
+  sastre: 0.0
+  humanitaire: 2.2222222222222223
+  se: 0.0
+  profile: 0.0
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  0: 0.0
+  maximum: 0.0
+  user: 0.0
+  scalable: 0.0
+  no: 0.0
+  max: 0.0
+  snippet: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  video: 0.0
+  IsraÃ: 6.666666666666667
+  Conflit: 0.0
+  Guerre: 2.2222222222222223
+  Cisjordanie: 0.0
+  Palestine: 0.0
+  Infographie: 0.0
+  Cartes: 0.0
+  summary_large_image: 0.0
+  Le_Figaro: 0.0
+  terrain: 4.444444444444445
+  une: 0.0
+  possible: 4.444444444444445
+  offensive: 4.444444444444445
+  terrestre: 4.444444444444445
+  cryptÃ: 0.0
+  s: 0.0
+  grÃ: 0.0
+  ce: 0.0
+  aux: 0.0
+  cartes: 0.0
+  30Guerre: 0.0
+  CrÃ: 0.0
+  dits: 0.0
+
+Canonical URL:
+  https://www.lefigaro.fr/fig-data/offensive-israelienne-a-gaza-comprendre-le-champ-de-bataille-grace-aux-cartes-20231012/
+
+Language:
+  fr
+
+Charset:
+  utf-8
+
+Broken Links:

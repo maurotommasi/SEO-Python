@@ -1,0 +1,32 @@
+
+Meta Tags:
+
+Headings:
+  h1: []
+  h2: []
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+
+Text Content:
+  
+
+Images:
+
+Keywords:
+
+Keyword Density:
+
+Canonical URL:
+  None
+
+Language:
+  None
+
+Charset:
+  None
+
+Broken Links:

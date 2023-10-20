@@ -1,0 +1,306 @@
+
+Meta Tags:
+  description: CARTES â L'Ãtat hÃ©breu subit depuis samedi l'une des pires attaques de son histoire avec plus de 900 morts et 2400 blessÃ©s. Le Figaro vous dÃ©crypte cette opÃ©ration sans prÃ©cÃ©dent menÃ©e par les islamistes du Hamas sur le territoire israÃ©lien.
+  viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  robots: max-snippet:-1, max-image-preview:large, max-video-preview:-1
+  keywords: israÃ«l, Hamas, Attaque, Conflits, Palestine, Cisjordanie, infographie, carte
+  twitter:card: summary_large_image
+  twitter:site: Le_Figaro
+  twitter:creator: Le_Figaro
+  twitter:title: Comprendre l'attaque du Hamas contre IsraÃ«l grÃ¢ce aux cartes
+  twitter:description: CARTES â L'Ãtat hÃ©breu subit depuis samedi l'une des pires attaques de son histoire avec plus de 900 morts et 2400 blessÃ©s. Le Figaro vous dÃ©crypte cette opÃ©ration sans prÃ©cÃ©dent menÃ©e par les islamistes du Hamas sur le territoire israÃ©lien.
+  next-head-count: 30
+
+Headings:
+  h1: ["Comprendre l'attaque du Hamas contre IsraÃ«l grÃ¢ce aux cartes"]
+  h2: ['CrÃ©dits']
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+  - http://www.lefigaro.fr/
+  - https://www.lefigaro.fr/auteur/arthur-bijotat
+  - https://www.lefigaro.fr/auteur/dario-ingiusto
+  - https://www.lefigaro.fr/auteur/arthur-bijotat
+  - https://www.lefigaro.fr/auteur/dario-ingiusto
+  - https://lefigaro.fr/dossier/fig-data-infographies-datavisualisation
+  - mailto:?subject=Le%20Figaro%20%C3%A0%20lire%20&body=%0A%0A%0A%0Ahttps://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+  - https://twitter.com/intent/tweet?text=https://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+  - mailto:?subject=Le%20Figaro%20%C3%A0%20lire%20&body=%0A%0A%0A%0Ahttps://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+  - https://twitter.com/intent/tweet?text=https://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+  - http://www.lefigaro.fr/
+  - https://lefigaro.fr/dossier/fig-data-infographies-datavisualisation
+
+Text Content:
+  Comprendre l'attaque du Hamas contre IsraÃ«l grÃ¢ce aux cartesComprendre l'attaque du Hamas contre IsraÃ«l grÃ¢ce aux cartesParArthur BijotatetDario IngiustoParArthur BijotatetDario IngiustopourFig DataPubliÃ© le09 octobre 2023, mis Ã  jour le 11 octobre 2023CARTES âL'Ãtat hÃ©breu subit depuis samedi l'une des pires attaques de son histoire avec plus de 1200 morts et 2400 blessÃ©s.Le Figarovous dÃ©crypte cette opÃ©ration sans prÃ©cÃ©dent menÃ©e par les islamistes du Hamas sur le territoire israÃ©lien.CrÃ©ditsRÃDACTIONArthur BijotatCARTOGRAPHIEDario IngiustoRÃDACTION EN CHEFStÃ©phane SaulnierRÃALISATION TECHNIQUENicolas DunisMaxime LoustaletSOURCESReutersHaaretzThe Times of IsraÃ«lYediot AharonotThe Washington PostLiveUAMap
+
+Images:
+
+Keywords:
+  - CARTES
+  - â
+  - L
+  - Ã
+  - tat
+  - hÃ
+  - breu
+  - subit
+  - depuis
+  - samedi
+  - l
+  - une
+  - des
+  - pires
+  - attaques
+  - de
+  - son
+  - histoire
+  - avec
+  - plus
+  - de
+  - 900
+  - morts
+  - et
+  - 2400
+  - blessÃ
+  - s
+  - Le
+  - Figaro
+  - vous
+  - dÃ
+  - crypte
+  - cette
+  - opÃ
+  - ration
+  - sans
+  - prÃ
+  - cÃ
+  - dent
+  - menÃ
+  - e
+  - par
+  - les
+  - islamistes
+  - du
+  - Hamas
+  - sur
+  - le
+  - territoire
+  - israÃ
+  - lien
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - 0
+  - maximum
+  - scale
+  - 1
+  - 0
+  - user
+  - scalable
+  - no
+  - max
+  - snippet
+  - 1
+  - max
+  - image
+  - preview
+  - large
+  - max
+  - video
+  - preview
+  - 1
+  - israÃ
+  - l
+  - Hamas
+  - Attaque
+  - Conflits
+  - Palestine
+  - Cisjordanie
+  - infographie
+  - carte
+  - summary_large_image
+  - Le_Figaro
+  - Le_Figaro
+  - Comprendre
+  - l
+  - attaque
+  - du
+  - Hamas
+  - contre
+  - IsraÃ
+  - l
+  - grÃ
+  - ce
+  - aux
+  - cartes
+  - CARTES
+  - â
+  - L
+  - Ã
+  - tat
+  - hÃ
+  - breu
+  - subit
+  - depuis
+  - samedi
+  - l
+  - une
+  - des
+  - pires
+  - attaques
+  - de
+  - son
+  - histoire
+  - avec
+  - plus
+  - de
+  - 900
+  - morts
+  - et
+  - 2400
+  - blessÃ
+  - s
+  - Le
+  - Figaro
+  - vous
+  - dÃ
+  - crypte
+  - cette
+  - opÃ
+  - ration
+  - sans
+  - prÃ
+  - cÃ
+  - dent
+  - menÃ
+  - e
+  - par
+  - les
+  - islamistes
+  - du
+  - Hamas
+  - sur
+  - le
+  - territoire
+  - israÃ
+  - lien
+  - 30Comprendre
+  - l
+  - attaque
+  - du
+  - Hamas
+  - contre
+  - IsraÃ
+  - l
+  - grÃ
+  - ce
+  - aux
+  - cartes
+  - CrÃ
+  - dits
+
+Keyword Density:
+  CARTES: 0.0
+  â: 0.0
+  L: 0.0
+  Ã: 2.0408163265306123
+  tat: 0.0
+  hÃ: 0.0
+  breu: 0.0
+  subit: 2.0408163265306123
+  depuis: 2.0408163265306123
+  samedi: 2.0408163265306123
+  l: 0.0
+  une: 0.0
+  des: 0.0
+  pires: 2.0408163265306123
+  attaques: 2.0408163265306123
+  de: 0.0
+  son: 0.0
+  histoire: 2.0408163265306123
+  avec: 0.0
+  plus: 2.0408163265306123
+  900: 0.0
+  morts: 2.0408163265306123
+  et: 0.0
+  2400: 2.0408163265306123
+  blessÃ: 0.0
+  s: 0.0
+  Le: 0.0
+  Figaro: 0.0
+  vous: 0.0
+  dÃ: 0.0
+  crypte: 0.0
+  cette: 2.0408163265306123
+  opÃ: 0.0
+  ration: 0.0
+  sans: 2.0408163265306123
+  prÃ: 0.0
+  cÃ: 0.0
+  dent: 0.0
+  menÃ: 0.0
+  e: 0.0
+  par: 0.0
+  les: 0.0
+  islamistes: 2.0408163265306123
+  du: 0.0
+  Hamas: 6.122448979591836
+  sur: 0.0
+  le: 0.0
+  territoire: 2.0408163265306123
+  israÃ: 6.122448979591836
+  lien: 0.0
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  0: 0.0
+  maximum: 0.0
+  user: 0.0
+  scalable: 0.0
+  no: 0.0
+  max: 0.0
+  snippet: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  video: 0.0
+  Attaque: 0.0
+  Conflits: 0.0
+  Palestine: 0.0
+  Cisjordanie: 0.0
+  infographie: 0.0
+  carte: 0.0
+  summary_large_image: 0.0
+  Le_Figaro: 0.0
+  Comprendre: 2.0408163265306123
+  attaque: 0.0
+  contre: 4.081632653061225
+  IsraÃ: 6.122448979591836
+  grÃ: 0.0
+  ce: 0.0
+  aux: 0.0
+  cartes: 0.0
+  30Comprendre: 0.0
+  CrÃ: 0.0
+  dits: 0.0
+
+Canonical URL:
+  https://www.lefigaro.fr/fig-data/comprendre-l-attaque-du-hamas-contre-israel-grace-aux-cartes-20231009/
+
+Language:
+  fr
+
+Charset:
+  utf-8
+
+Broken Links:

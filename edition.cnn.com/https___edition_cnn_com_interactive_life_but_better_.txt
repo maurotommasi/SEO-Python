@@ -1,0 +1,129 @@
+
+Meta Tags:
+  description: Check out Life, But Better, CNN's source for information that inspires and challenges us to lead better lives. The journey begins here.
+  viewport: width=device-width,initial-scale=1
+  robots: index,follow
+  googlebot: noarchive
+  title: Life, But Better
+  section: health
+  source: CNN
+  application-name: CNN
+  twitter:card: summary_large_image
+  twitter:site: @cnn
+  twitter:site:id: 759251
+  twitter:creator: @cnn
+
+Headings:
+  h1: ['Life, But Better']
+  h2: []
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+  - https://cnn.com/terms
+  - https://cnn.com/privacy
+  - https://preferences-mgr.truste.com/?pid=turnermedia01&aid=turnermedia01&type=turner_pop&pid=turnermedia01&aid=turnermedia01
+  - https://cnn.com
+  - https://cnn.com
+
+Text Content:
+  Life, But BetterLife, But BetterÂ© 2021 Cable News Network.A WarnerMedia companyAll Rights Reserved.CNN Sans â¢ & Â© 2016 Cable News Network.Terms of UsePrivacy PolicyAdChoices
+
+Images:
+
+Keywords:
+  - Check
+  - out
+  - Life
+  - But
+  - Better
+  - CNN
+  - s
+  - source
+  - for
+  - information
+  - that
+  - inspires
+  - and
+  - challenges
+  - us
+  - to
+  - lead
+  - better
+  - lives
+  - The
+  - journey
+  - begins
+  - here
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - index
+  - follow
+  - noarchive
+  - Life
+  - But
+  - Better
+  - health
+  - CNN
+  - CNN
+  - summary_large_image
+  - cnn
+  - 759251
+  - cnnLife
+  - But
+  - Better
+
+Keyword Density:
+  Check: 0.0
+  out: 0.0
+  Life: 7.142857142857142
+  But: 0.0
+  Better: 0.0
+  CNN: 0.0
+  s: 0.0
+  source: 0.0
+  for: 0.0
+  information: 0.0
+  that: 0.0
+  inspires: 0.0
+  and: 0.0
+  challenges: 0.0
+  us: 0.0
+  to: 0.0
+  lead: 0.0
+  better: 0.0
+  lives: 0.0
+  The: 0.0
+  journey: 0.0
+  begins: 0.0
+  here: 0.0
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  index: 0.0
+  follow: 0.0
+  noarchive: 0.0
+  health: 0.0
+  summary_large_image: 0.0
+  cnn: 0.0
+  759251: 0.0
+  cnnLife: 0.0
+
+Canonical URL:
+  https://www.cnn.com/interactive/life-but-better/
+
+Language:
+  None
+
+Charset:
+  utf-8
+
+Broken Links:

@@ -1,0 +1,187 @@
+
+Meta Tags:
+  viewport: width=device-width,initial-scale=1,shrink-to-fit=no
+  theme-color: #000000
+  robots: index,follow
+  googlebot: noarchive
+  title: Call to Earth
+  description: Call to Earth is CNNâs commitment to reporting on the environmental challenges facing our planet, together with the solutions. In partnership with Rolex as part of their Perpetual Planet initiative, our goal is to drive awareness, action and education around key issues, inspiring a blueprint for a more environmentally conscious life. #CalltoEarth  #PerpetualPlanet
+  section: world
+  source: CNN
+  application-name: CNN
+  twitter:card: summary_large_image
+  twitter:site: @cnn
+  twitter:site:id: 759251
+  twitter:creator: @cnn
+
+Headings:
+  h1: []
+  h2: []
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+
+Text Content:
+  Call to EarthYou need to enable JavaScript to run this app.
+
+Images:
+
+Keywords:
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - shrink
+  - to
+  - fit
+  - no
+  - 000000
+  - index
+  - follow
+  - noarchive
+  - Call
+  - to
+  - Earth
+  - Call
+  - to
+  - Earth
+  - is
+  - CNNâ
+  - s
+  - commitment
+  - to
+  - reporting
+  - on
+  - the
+  - environmental
+  - challenges
+  - facing
+  - our
+  - planet
+  - together
+  - with
+  - the
+  - solutions
+  - In
+  - partnership
+  - with
+  - Rolex
+  - as
+  - part
+  - of
+  - their
+  - Perpetual
+  - Planet
+  - initiative
+  - our
+  - goal
+  - is
+  - to
+  - drive
+  - awareness
+  - action
+  - and
+  - education
+  - around
+  - key
+  - issues
+  - inspiring
+  - a
+  - blueprint
+  - for
+  - a
+  - more
+  - environmentally
+  - conscious
+  - life
+  - CalltoEarth
+  - PerpetualPlanet
+  - world
+  - CNN
+  - CNN
+  - summary_large_image
+  - cnn
+  - 759251
+  - cnn
+
+Keyword Density:
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  shrink: 0.0
+  to: 0.0
+  fit: 0.0
+  no: 0.0
+  000000: 0.0
+  index: 0.0
+  follow: 0.0
+  noarchive: 0.0
+  Call: 14.285714285714285
+  Earth: 0.0
+  is: 0.0
+  CNNâ: 0.0
+  s: 0.0
+  commitment: 0.0
+  reporting: 0.0
+  on: 0.0
+  the: 0.0
+  environmental: 0.0
+  challenges: 0.0
+  facing: 0.0
+  our: 0.0
+  planet: 0.0
+  together: 0.0
+  with: 0.0
+  solutions: 0.0
+  In: 0.0
+  partnership: 0.0
+  Rolex: 0.0
+  as: 0.0
+  part: 0.0
+  of: 0.0
+  their: 0.0
+  Perpetual: 0.0
+  Planet: 0.0
+  initiative: 0.0
+  goal: 0.0
+  drive: 0.0
+  awareness: 0.0
+  action: 0.0
+  and: 0.0
+  education: 0.0
+  around: 0.0
+  key: 0.0
+  issues: 0.0
+  inspiring: 0.0
+  a: 0.0
+  blueprint: 0.0
+  for: 0.0
+  more: 0.0
+  environmentally: 0.0
+  conscious: 0.0
+  life: 0.0
+  CalltoEarth: 0.0
+  PerpetualPlanet: 0.0
+  world: 0.0
+  CNN: 0.0
+  summary_large_image: 0.0
+  cnn: 0.0
+  759251: 0.0
+
+Canonical URL:
+  None
+
+Language:
+  en
+
+Charset:
+  utf-8
+
+Broken Links:

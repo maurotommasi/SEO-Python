@@ -1,0 +1,285 @@
+
+Meta Tags:
+  viewport: width=device-width, initial-scale=1, minimum-scale=1
+  description: Enseignant en école primaire et formateur à l'Éducation nationale pendant 47 ans, René Étrillard a vu les religions prendre de plus en plus d'importance pour son auditoire. Peu après l'attentat d'Arras, il fait part de sa colère.
+  robots: max-snippet:-1, max-image-preview:large, max-video-preview:-1
+  referrer: no-referrer-when-downgrade
+  twitter:card: summary
+  twitter:site: @Le_Figaro
+  twitter:creator: @Le_Figaro
+  twitter:title: René Étrillard, ancien instituteur : «J'ai formé une génération de futurs enseignants qui n'est pas attachée à la laïcité»
+  twitter:description: Enseignant en école primaire et formateur à l'Éducation nationale pendant 47 ans, René Étrillard a vu les religions prendre de plus en plus d'importance pour son auditoire. Peu après l'attentat d'Arras, il fait part de sa colère.
+  twitter:image: https://i.f1g.fr/media/_uploaded/1200x630_crop/mobile/stories/gazette/2023/10/20/main_image_1697822754255_zmlMi49.jpg
+  twitter:widgets:autoload: off
+  msapplication-tilecolor: #ffffff
+  msapplication-config: /browserconfig.xml
+  theme-color: #ffffff
+
+Headings:
+  h1: []
+  h2: []
+  h3: []
+  h4: []
+  h5: []
+  h6: []
+
+Links:
+  - #fig-page
+
+Text Content:
+  René Étrillard, ancien instituteur : «J'ai formé une génération de futurs enseignants qui n'est pas attachée à la laïcité»Aller au contenu
+
+Images:
+
+Keywords:
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - minimum
+  - scale
+  - 1
+  - Enseignant
+  - en
+  - école
+  - primaire
+  - et
+  - formateur
+  - à
+  - l
+  - Éducation
+  - nationale
+  - pendant
+  - 47
+  - ans
+  - René
+  - Étrillard
+  - a
+  - vu
+  - les
+  - religions
+  - prendre
+  - de
+  - plus
+  - en
+  - plus
+  - d
+  - importance
+  - pour
+  - son
+  - auditoire
+  - Peu
+  - après
+  - l
+  - attentat
+  - d
+  - Arras
+  - il
+  - fait
+  - part
+  - de
+  - sa
+  - colère
+  - max
+  - snippet
+  - 1
+  - max
+  - image
+  - preview
+  - large
+  - max
+  - video
+  - preview
+  - 1
+  - no
+  - referrer
+  - when
+  - downgrade
+  - summary
+  - Le_Figaro
+  - Le_Figaro
+  - René
+  - Étrillard
+  - ancien
+  - instituteur
+  - J
+  - ai
+  - formé
+  - une
+  - génération
+  - de
+  - futurs
+  - enseignants
+  - qui
+  - n
+  - est
+  - pas
+  - attachée
+  - à
+  - la
+  - laïcité
+  - Enseignant
+  - en
+  - école
+  - primaire
+  - et
+  - formateur
+  - à
+  - l
+  - Éducation
+  - nationale
+  - pendant
+  - 47
+  - ans
+  - René
+  - Étrillard
+  - a
+  - vu
+  - les
+  - religions
+  - prendre
+  - de
+  - plus
+  - en
+  - plus
+  - d
+  - importance
+  - pour
+  - son
+  - auditoire
+  - Peu
+  - après
+  - l
+  - attentat
+  - d
+  - Arras
+  - il
+  - fait
+  - part
+  - de
+  - sa
+  - colère
+  - https
+  - i
+  - f1g
+  - fr
+  - media
+  - _uploaded
+  - 1200x630_crop
+  - mobile
+  - stories
+  - gazette
+  - 2023
+  - 10
+  - 20
+  - main_image_1697822754255_zmlMi49
+  - jpg
+  - off
+  - ffffff
+  - browserconfig
+  - xml
+  - ffffff
+
+Keyword Density:
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  minimum: 0.0
+  Enseignant: 0.0
+  en: 0.0
+  école: 0.0
+  primaire: 0.0
+  et: 0.0
+  formateur: 0.0
+  à: 0.0
+  l: 0.0
+  Éducation: 0.0
+  nationale: 0.0
+  pendant: 0.0
+  47: 0.0
+  ans: 0.0
+  René: 8.333333333333332
+  Étrillard: 8.333333333333332
+  a: 0.0
+  vu: 0.0
+  les: 0.0
+  religions: 0.0
+  prendre: 0.0
+  de: 0.0
+  plus: 0.0
+  d: 0.0
+  importance: 0.0
+  pour: 0.0
+  son: 0.0
+  auditoire: 0.0
+  Peu: 0.0
+  après: 0.0
+  attentat: 0.0
+  Arras: 0.0
+  il: 0.0
+  fait: 0.0
+  part: 0.0
+  sa: 0.0
+  colère: 0.0
+  max: 0.0
+  snippet: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  video: 0.0
+  no: 0.0
+  referrer: 0.0
+  when: 0.0
+  downgrade: 0.0
+  summary: 0.0
+  Le_Figaro: 0.0
+  ancien: 8.333333333333332
+  instituteur: 8.333333333333332
+  J: 0.0
+  ai: 0.0
+  formé: 8.333333333333332
+  une: 0.0
+  génération: 8.333333333333332
+  futurs: 8.333333333333332
+  enseignants: 8.333333333333332
+  qui: 0.0
+  n: 0.0
+  est: 0.0
+  pas: 0.0
+  attachée: 8.333333333333332
+  la: 0.0
+  laïcité: 8.333333333333332
+  https: 0.0
+  i: 0.0
+  f1g: 0.0
+  fr: 0.0
+  media: 0.0
+  _uploaded: 0.0
+  1200x630_crop: 0.0
+  mobile: 0.0
+  stories: 0.0
+  gazette: 0.0
+  2023: 0.0
+  10: 0.0
+  20: 0.0
+  main_image_1697822754255_zmlMi49: 0.0
+  jpg: 0.0
+  off: 0.0
+  ffffff: 0.0
+  browserconfig: 0.0
+  xml: 0.0
+
+Canonical URL:
+  https://www.lefigaro.fr/story/rene-etrillard-ancien-instituteur--jai-forme-une-generation-de-futurs-enseignants-qui-nest-pas-attachee-a-la-laicite-16448
+
+Language:
+  fr
+
+Charset:
+  None
+
+Broken Links:

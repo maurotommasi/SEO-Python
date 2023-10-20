@@ -1,0 +1,386 @@
+
+Meta Tags:
+  viewport: width=1080
+  robots: max-image-preview:large
+  twitter:card: summary_large_image
+  twitter:title: Video - Il Fatto Quotidiano
+  twitter:site: @fattoquotidiano
+  twitter:creator: @the_minimizer
+  google-signin-client_id: 476465295171-69hs7d4aa94kjnmj55bnmjm8drg4dslm.apps.googleusercontent.com
+  msapplication-tileimage: https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/icons/touch_196.png
+
+Headings:
+  h1: []
+  h2: ['Gaza, manager Oxfam racconta i raid a Khan Younis: “Colpito un edificio vicino a noi, piangevano tutti. Ora pensiamo solo a salvarci”']
+  h3: []
+  h4: ['', 'Mondo', 'Mondo', 'Lavoro & Precari', 'Giustizia & Impunità', 'Politica →', 'Politica', 'Politica', 'Politica', 'Politica', 'Cronaca →', 'Cronaca', 'Cronaca', 'Cronaca', 'Cronaca', 'Mondo →', 'Mondo', 'Mondo', 'Mondo', 'Mondo']
+  h5: ['ABBONATI']
+  h6: []
+
+Links:
+  - https://shop.ilfattoquotidiano.it/abbonamento-sostenitore-sostieni-ilfattoquotidiano/
+  - /
+  - #
+  - https://www.ilfattoquotidiano.it/mattanza-podcast/
+  - https://www.ilfattoquotidiano.it/politica-palazzo/
+  - https://www.ilfattoquotidiano.it/palazzi-potere/
+  - https://www.ilfattoquotidiano.it/giustizia-impunita/
+  - https://www.ilfattoquotidiano.it/media-regime/
+  - https://www.ilfattoquotidiano.it/economia-lobby/
+  - https://www.ilfattoquotidiano.it/economia-lobby/osservatorio-recovery/
+  - https://www.ilfattoquotidiano.it/zona-euro/
+  - https://www.ilfattoquotidiano.it/lavoro-precari/
+  - https://www.ilfattoquotidiano.it/cronaca/
+  - #
+  - https://www.ilfattoquotidiano.it/cronaca/memoriale-coronavirus/
+  - https://www.ilfattoquotidiano.it/cronaca-nera/
+  - https://www.ilfattoquotidiano.it/mafie/
+  - https://www.ilfattoquotidiano.it/mondo/
+  - https://www.ilfattoquotidiano.it/ambiente-veleni/
+  - https://www.ilfattoquotidiano.it/scuola/
+  - https://www.ilfattoquotidiano.it/diritti/
+  - https://www.ilfattoquotidiano.it/cervelli-fuga/
+  - https://www.ilfattoquotidiano.it/societa/
+  - https://www.ilfattoquotidiano.it/tecnologia/
+  - https://www.ilfattoquotidiano.it/scienza/
+  - https://www.ilfattoquotidiano.it/motori-2-0/
+  - https://www.ilfattoquotidiano.it/fq-magazine/
+  - https://www.ilfattoquotidiano.it/sport-miliardi/
+  - https://www.ilfattoquotidiano.it/salute/
+  - /video/
+  - https://www.ilfattoquotidiano.it/blog/
+  - https://fattodavoi.ilfattoquotidiano.it/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.ilfattoquotidiano.it/in-edicola/
+  - https://www.fqmillennium.it/
+  - https://www.tvloft.it/
+  - https://www.paperfirst.it/
+  - https://www.codicesconto.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/sostenitori/
+  - https://meteo.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/immobiliare/
+  - http://www.ilfattoquotidiano.it/
+  - https://www.ilfattoquotidiano.it/blog/
+  - http://tv.ilfattoquotidiano.it/
+  - http://www.flickr.com/photos/ilfattoquotidiano/
+  - http://ebook.ilfattoquotidiano.it/
+  - https://shop.ilfattoquotidiano.it/
+  - https://shop.ilfattoquotidiano.it/abbonamenti/
+  - http://shop.ilfattoquotidiano.it/abbonati/
+  - https://www.ilfattoquotidiano.it/contatti/
+  - https://www.facebook.com/ilFattoQuotidiano
+  - https://www.ilfattoquotidiano.it/2017/10/24/le-notizie-de-ilfattoquotidiano-su-facebook-messenger-ecco-come-riceverle/3932643/
+  - https://www.instagram.com/ilfattoquotidianoit/
+  - https://shop.ilfattoquotidiano.it/newsletter/
+  - https://www.twitter.com/FattoQuotidiano
+  - https://www.youtube.com/antefattoblog
+  - /abbonati/
+  - /
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.scuoladelfatto.it/
+  - /abbonati/
+  - https://www.ilfattoquotidiano.it/?s=&orderby=data#ifq_search_title
+  - https://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci%2F7329407%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci%2F7329407%2F&text=Gaza%2C+manager+Oxfam+racconta+i+raid+a+Khan+Younis%3A+%E2%80%9CColpito+un+edificio+vicino+a+noi%2C+piangevano+tutti.+Ora+pensiamo+solo+a+salvarci%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci%2F7329407%2F&via=fattoquotidiano
+  - mailto:?subject=Gaza, manager Oxfam racconta i raid a Khan Younis: “Colpito un edificio vicino a noi, piangevano tutti. Ora pensiamo solo a salvarci”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/
+  - https://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fi-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa%2F7329524%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fi-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa%2F7329524%2F&text=%E2%80%9CI+bambini+hanno+bisogno+di+cure+e+non+ci+sono+pi%C3%B9+incubatrici%E2%80%9D%3A+il+racconto+dell%E2%80%99attivista+palestinese+di+ActionAid+dall%E2%80%99ospedale+di+Al+Shifa&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fi-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa%2F7329524%2F&via=fattoquotidiano
+  - mailto:?subject=“I bambini hanno bisogno di cure e non ci sono più incubatrici”: il racconto dell’attivista palestinese di ActionAid dall’ospedale di Al Shifa&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/
+  - https://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/ex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente/7329460/
+  - https://www.ilfattoquotidiano.it/2023/10/20/ex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente/7329460/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente%2F7329460%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente%2F7329460%2F&text=Ex+Ilva%2C+sciopero+e+manifestazione+a+Roma.+I+sindacati%3A+%E2%80%9CMittal+non+credibile%2C+lo+Stato+scelga+da+che+parte+stare.+Ora+mobilitazione+permanente%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente%2F7329460%2F&via=fattoquotidiano
+  - mailto:?subject=Ex Ilva, sciopero e manifestazione a Roma. I sindacati: “Mittal non credibile, lo Stato scelga da che parte stare. Ora mobilitazione permanente”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/ex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente/7329460/
+  - https://www.ilfattoquotidiano.it/2023/10/20/ex-ilva-sciopero-e-manifestazione-a-roma-i-sindacati-mittal-non-credibile-lo-stato-scelga-da-che-parte-stare-ora-mobilitazione-permanente/7329460/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/gratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte/7329446/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte/7329446/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte%2F7329446%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte%2F7329446%2F&text=Gratteri+si+insedia+come+nuovo+procuratore+di+Napoli%3A+%E2%80%9CAi+cittadini+dico+di+fidarsi+di+noi+e+di+denunciare%2C+daremo+le+giuste+risposte%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte%2F7329446%2F&via=fattoquotidiano
+  - mailto:?subject=Gratteri si insedia come nuovo procuratore di Napoli: “Ai cittadini dico di fidarsi di noi e di denunciare, daremo le giuste risposte”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/gratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte/7329446/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gratteri-si-insedia-come-nuovo-procuratore-di-napoli-ai-cittadini-dico-di-fidarsi-di-noi-e-di-denunciare-daremo-le-giuste-risposte/7329446/#cComments
+  - https://www.ilfattoquotidiano.it/category/politica-palazzo/
+  - https://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro/7329397/
+  - https://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro/7329397/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgiambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro%2F7329397%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgiambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro%2F7329397%2F&text=Giambruno-Meloni%2C+Calenda%3A+%E2%80%9CVicenda+schifosa+e+fetida%2C+i+fuorionda+non+dovevano+essere+trasmessi.+Non+si+pu%C3%B2+fare+questo+massacro%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgiambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro%2F7329397%2F&via=fattoquotidiano
+  - mailto:?subject=Giambruno-Meloni, Calenda: “Vicenda schifosa e fetida, i fuorionda non dovevano essere trasmessi. Non si può fare questo massacro”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro/7329397/
+  - https://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-calenda-vicenda-schifosa-e-fetida-i-fuorionda-non-dovevano-essere-trasmessi-non-si-puo-fare-questo-massacro/7329397/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto/7329382/
+  - https://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto/7329382/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgiambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto%2F7329382%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgiambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto%2F7329382%2F&text=Giambruno-Meloni%2C+rivedi+la+diretta+con+Peter+Gomez+e+Gianni+Barbacetto&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgiambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto%2F7329382%2F&via=fattoquotidiano
+  - mailto:?subject=Giambruno-Meloni, rivedi la diretta con Peter Gomez e Gianni Barbacetto&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto/7329382/
+  - https://www.ilfattoquotidiano.it/2023/10/20/giambruno-meloni-ne-parlano-in-diretta-peter-gomez-e-gianni-barbacetto/7329382/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/mattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica/7329344/
+  - https://www.ilfattoquotidiano.it/2023/10/20/mattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica/7329344/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fmattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica%2F7329344%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fmattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica%2F7329344%2F&text=Mattarella%3A+%E2%80%9CI+germi+della+pseudocultura+della+violenza+e+dell%E2%80%99odio+alimentano+minacce+di+natura+terroristica%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fmattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica%2F7329344%2F&via=fattoquotidiano
+  - mailto:?subject=Mattarella: “I germi della pseudocultura della violenza e dell’odio alimentano minacce di natura terroristica”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/mattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica/7329344/
+  - https://www.ilfattoquotidiano.it/2023/10/20/mattarella-i-germi-della-pseudocultura-della-violenza-e-dellodio-alimentano-minacce-di-natura-terroristica/7329344/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/meloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco/7329170/
+  - https://www.ilfattoquotidiano.it/2023/10/20/meloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco/7329170/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fmeloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco%2F7329170%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fmeloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco%2F7329170%2F&text=Meloni-Giambruno%2C+Conte%3A+%E2%80%9CSolidariet%C3%A0+alla+premier.+Destra+eviti+di+imporre+modelli+ideologici+da+famiglia+Mulino+Bianco%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fmeloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco%2F7329170%2F&via=fattoquotidiano
+  - mailto:?subject=Meloni-Giambruno, Conte: “Solidarietà alla premier. Destra eviti di imporre modelli ideologici da famiglia Mulino Bianco”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/meloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco/7329170/
+  - https://www.ilfattoquotidiano.it/2023/10/20/meloni-giambruno-conte-solidarieta-alla-premier-destra-eviti-di-imporre-modelli-ideologici-da-famiglia-mulino-bianco/7329170/#cComments
+  - https://www.ilfattoquotidiano.it/category/cronaca/
+  - https://www.ilfattoquotidiano.it/2023/10/20/studenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini/7328872/
+  - https://www.ilfattoquotidiano.it/2023/10/20/studenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini/7328872/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fstudenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini%2F7328872%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fstudenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini%2F7328872%2F&text=Studenti+bruciano+modellino+del+ponte+sullo+Stretto+davanti+al+ministero+delle+Infrastrutture%3A+cori+contro+Salvini&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fstudenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini%2F7328872%2F&via=fattoquotidiano
+  - mailto:?subject=Studenti bruciano modellino del ponte sullo Stretto davanti al ministero delle Infrastrutture: cori contro Salvini&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/studenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini/7328872/
+  - https://www.ilfattoquotidiano.it/2023/10/20/studenti-bruciano-modellino-del-ponte-sullo-stretto-davanti-al-ministero-delle-infrastrutture-cori-contro-salvini/7328872/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/19/nubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video/7327972/
+  - https://www.ilfattoquotidiano.it/2023/10/19/nubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video/7327972/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F19%2Fnubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video%2F7327972%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F19%2Fnubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video%2F7327972%2F&text=Nubifragio+a+Livorno%2C+alberi+caduti+e+sradicati+per+il+vento+forte+e+la+pioggia+intensa%3A+si+contano+i+danni+%E2%80%93+Video&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F19%2Fnubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video%2F7327972%2F&via=fattoquotidiano
+  - mailto:?subject=Nubifragio a Livorno, alberi caduti e sradicati per il vento forte e la pioggia intensa: si contano i danni – Video&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/19/nubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video/7327972/
+  - https://www.ilfattoquotidiano.it/2023/10/19/nubifragio-a-livorno-alberi-caduti-e-sradicati-per-il-vento-forte-e-la-pioggia-intensa-si-contano-i-danni-video/7327972/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/18/maxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini/7327084/
+  - https://www.ilfattoquotidiano.it/2023/10/18/maxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini/7327084/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fmaxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini%2F7327084%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fmaxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini%2F7327084%2F&text=Maxi+bandiera+palestinese+sventola+a+Scampia%3A+il+vessillo+srotolato+dalla+vela+celeste+%E2%80%93+Le+immagini&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fmaxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini%2F7327084%2F&via=fattoquotidiano
+  - mailto:?subject=Maxi bandiera palestinese sventola a Scampia: il vessillo srotolato dalla vela celeste – Le immagini&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/18/maxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini/7327084/
+  - https://www.ilfattoquotidiano.it/2023/10/18/maxi-bandiera-palestinese-sventola-a-scampia-il-vessillo-srotolato-dalla-vela-celeste-le-immagini/7327084/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/18/la-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza/7326328/
+  - https://www.ilfattoquotidiano.it/2023/10/18/la-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza/7326328/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fla-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza%2F7326328%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fla-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza%2F7326328%2F&text=La+partigiana+di+103+anni+Iole+Mancini%3A+%E2%80%9CCi+vietano+di+andare+nelle+scuole%2C+forse+a+qualcuno+non+piace+la+nostra+testimonianza%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F18%2Fla-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza%2F7326328%2F&via=fattoquotidiano
+  - mailto:?subject=La partigiana di 103 anni Iole Mancini: “Ci vietano di andare nelle scuole, forse a qualcuno non piace la nostra testimonianza”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/18/la-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza/7326328/
+  - https://www.ilfattoquotidiano.it/2023/10/18/la-partigiana-di-103-anni-iole-mancini-ci-vietano-di-andare-nelle-scuole-forse-a-qualcuno-non-piace-la-nostra-testimonianza/7326328/#cComments
+  - https://www.ilfattoquotidiano.it/category/mondo/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci%2F7329407%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci%2F7329407%2F&text=Gaza%2C+manager+Oxfam+racconta+i+raid+a+Khan+Younis%3A+%E2%80%9CColpito+un+edificio+vicino+a+noi%2C+piangevano+tutti.+Ora+pensiamo+solo+a+salvarci%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fgaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci%2F7329407%2F&via=fattoquotidiano
+  - mailto:?subject=Gaza, manager Oxfam racconta i raid a Khan Younis: “Colpito un edificio vicino a noi, piangevano tutti. Ora pensiamo solo a salvarci”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/
+  - https://www.ilfattoquotidiano.it/2023/10/20/gaza-manager-oxfam-racconta-i-raid-a-khan-younis-colpito-un-edificio-vicino-a-noi-piangevano-tutti-ora-pensiamo-solo-a-salvarci/7329407/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/
+  - https://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fi-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa%2F7329524%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fi-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa%2F7329524%2F&text=%E2%80%9CI+bambini+hanno+bisogno+di+cure+e+non+ci+sono+pi%C3%B9+incubatrici%E2%80%9D%3A+il+racconto+dell%E2%80%99attivista+palestinese+di+ActionAid+dall%E2%80%99ospedale+di+Al+Shifa&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fi-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa%2F7329524%2F&via=fattoquotidiano
+  - mailto:?subject=“I bambini hanno bisogno di cure e non ci sono più incubatrici”: il racconto dell’attivista palestinese di ActionAid dall’ospedale di Al Shifa&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/
+  - https://www.ilfattoquotidiano.it/2023/10/20/i-bambini-hanno-bisogno-di-cure-e-non-ci-sono-piu-incubatrici-il-racconto-dellattivista-palestinese-di-actionaid-dallospedale-di-al-shifa/7329524/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/a-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam/7328258/
+  - https://www.ilfattoquotidiano.it/2023/10/20/a-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam/7328258/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fa-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam%2F7328258%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fa-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam%2F7328258%2F&text=%E2%80%9CA+Gaza+centinaia+di+corpi+in+fosse+comuni.+Quale+sar%C3%A0+il+destino+dei+neonati+sopravvissuti+e+non+identificati%3F%E2%80%9D%3A+il+racconto+dell%E2%80%99operatrice+Oxfam&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fa-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam%2F7328258%2F&via=fattoquotidiano
+  - mailto:?subject=“A Gaza centinaia di corpi in fosse comuni. Quale sarà il destino dei neonati sopravvissuti e non identificati?”: il racconto dell’operatrice Oxfam&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/a-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam/7328258/
+  - https://www.ilfattoquotidiano.it/2023/10/20/a-gaza-centinaia-di-corpi-in-fosse-comuni-quale-sara-il-destino-dei-neonati-sopravvissuti-e-non-identificati-il-racconto-delloperatrice-oxfam/7328258/#cComments
+  - https://www.ilfattoquotidiano.it/2023/10/20/israele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere/7329317/
+  - https://www.ilfattoquotidiano.it/2023/10/20/israele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere/7329317/
+  - #
+  - #
+  - https://www.facebook.com/dialog/share?app_id=564340812119148&href=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fisraele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere%2F7329317%2F&picture=
+  - https://twitter.com/intent/tweet?source=webclient&original_referer=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fisraele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere%2F7329317%2F&text=Israele%2C+Netanyahu+fa+visita+ai+soldati+vicino+al+confine+con+Gaza+e+li+incoraggia%3A+%E2%80%9CSiete+pronti+a+vincere%3F%E2%80%9D&url=https%3A%2F%2Fwww.ilfattoquotidiano.it%2F2023%2F10%2F20%2Fisraele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere%2F7329317%2F&via=fattoquotidiano
+  - mailto:?subject=Israele, Netanyahu fa visita ai soldati vicino al confine con Gaza e li incoraggia: “Siete pronti a vincere?”&body=Ciao%2C%20vorrei%20condividerti:%0D%0Ahttps://www.ilfattoquotidiano.it/2023/10/20/israele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere/7329317/
+  - https://www.ilfattoquotidiano.it/2023/10/20/israele-netanyahu-fa-visita-ai-soldati-vicino-al-confine-con-gaza-e-li-incoraggia-siete-pronti-a-vincere/7329317/#cComments
+  - /
+  - https://www.ilfattoquotidiano.it/privacy-policy/
+  - https://www.ilfattoquotidiano.it/termini-e-condizioni-dutilizzo/
+  - https://www.ilfattoquotidiano.it/la-tua-pubblicita-sul-fatto-quotidiano/
+  - https://www.ilfattoquotidiano.it/redazione/
+  - https://www.fondazioneilfattoquotidiano.org/
+  - https://www.ilfattoquotidiano.it/abbonati/
+  - #
+  - https://www.facebook.com/ilFattoQuotidiano
+  - https://www.ilfattoquotidiano.it/2017/10/24/le-notizie-de-ilfattoquotidiano-su-facebook-messenger-ecco-come-riceverle/3932643/
+  - https://www.instagram.com/ilfattoquotidianoit/
+  - https://shop.ilfattoquotidiano.it/newsletter/
+  - https://www.twitter.com/FattoQuotidiano
+  - https://www.youtube.com/antefattoblog
+  - #
+  - https://shop.ilfattoquotidiano.it/abbonati-ora/?step=2&buy=256540&coupon=sostenitori-cookie-wall
+  - https://shop.ilfattoquotidiano.it/login/
+  - /privacy-policy/#cookie-policy
+
+Text Content:
+  Video - Il Fatto QuotidianoSostieniciILFATTOQUOTIDIANO.ITSezioniMattanza PodcastPoliticaPalazzi & PotereGiustizia & ImpunitàMedia & RegimeEconomia & LobbyOsservatorio RecoveryZona EuroLavoro & PrecariCronacaMemoriale CoronavirusCronaca NeraMafieMondoAmbiente & VeleniScuolaDirittiCervelli in fugaSocietàTecnologiaScienzaMotoriFQ MagazineFQ SportFQ SaluteVideoBlogFatto da VoiFondazione FQFQ ExtraFQ MillenniumTVLoftPaperFirstCodici ScontoSostenitoriMeteoImmobiliareHomeBlogFatto TVFotoeBookShopAbbonati oraPagina abbonatiGerenza e contattiABBONATIFondazione FQScuola del FattoAbbonatiSearchIFQBurgerIFQSearchIFQMondoGaza, manager Oxfam racconta i raid a Khan Younis: “Colpito un edificio vicino a noi, piangevano tutti. Ora pensiamo solo a salvarci”Mondo“I bambini hanno bisogno di cure e non ci sono più incubatrici”: il racconto dell’attivista palestinese di ActionAid dall’ospedale di Al ShifaLavoro & PrecariEx Ilva, sciopero e manifestazione a Roma. I sindacati: “Mittal non credibile, lo Stato scelga da che parte stare. Ora mobilitazione permanente”Giustizia & ImpunitàGratteri si insedia come nuovo procuratore di Napoli: “Ai cittadini dico di fidarsi di noi e di denunciare, daremo le giuste risposte”Politica→PoliticaGiambruno-Meloni, Calenda: “Vicenda schifosa e fetida, i fuorionda non dovevano essere trasmessi. Non si può fare questo massacro”PoliticaGiambruno-Meloni, rivedi la diretta con Peter Gomez e Gianni BarbacettoPoliticaMattarella: “I germi della pseudocultura della violenza e dell’odio alimentano minacce di natura terroristica”PoliticaMeloni-Giambruno, Conte: “Solidarietà alla premier. Destra eviti di imporre modelli ideologici da famiglia Mulino Bianco”Cronaca→CronacaStudenti bruciano modellino del ponte sullo Stretto davanti al ministero delle Infrastrutture: cori contro SalviniCronacaNubifragio a Livorno, alberi caduti e sradicati per il vento forte e la pioggia intensa: si contano i danni – VideoCronacaMaxi bandiera palestinese sventola a Scampia: il vessillo srotolato dalla vela celeste – Le immaginiCronacaLa partigiana di 103 anni Iole Mancini: “Ci vietano di andare nelle scuole, forse a qualcuno non piace la nostra testimonianza”Mondo→MondoGaza, manager Oxfam racconta i raid a Khan Younis: “Colpito un edificio vicino a noi, piangevano tutti. Ora pensiamo solo a salvarci”Mondo“I bambini hanno bisogno di cure e non ci sono più incubatrici”: il racconto dell’attivista palestinese di ActionAid dall’ospedale di Al ShifaMondo“A Gaza centinaia di corpi in fosse comuni. Quale sarà il destino dei neonati sopravvissuti e non identificati?”: il racconto dell’operatrice OxfamMondoIsraele, Netanyahu fa visita ai soldati vicino al confine con Gaza e li incoraggia: “Siete pronti a vincere?”PrivacyTermini e condizioni d'usoFai pubblicità con FQRedazioneFondazione FQAbbonatiCambia impostazioni privacy© 2009 - 2023 SEIF S.p.A. - C.F. e P.IVA 10460121006Caro navigatore, cara navigatrice,non riesci a leggere ilfattoquotidiano.it perché hai negato i consensi relativi alla pubblicità. Per continuare a leggerci accetta i consensi o diventa nostro Sostenitore (in questo modo navigherai senza nessuna inserzione).Ti ricordiamo che il nostro lavoro ha un costo ripagato dalla pubblicità e dai sostenitori. Il tuo aiuto è per noi indispensabile.Accetta i consensiRifiuta e SostieniciGià abbonato? AccediScopri di piùCosa implicano le due scelte che ti proponiamo:Se clicchi“Accetta i consensi”acconsenti in questo modo al trattamento dei tuoi dati personali mediante l'impiego di tutti i cookie presenti sul sito, fermo restando la possibilità di revocare il consenso in qualunque momento. Navigherai in modo totalmente gratuito e potrai visualizzare fino ad un massimo di 10 articoli al mese, e vedrai la pubblicità.Che cosa sono i cookie?Se clicchi su“Rifiuta e Sostienici”sottoscrivi un abbonamento Sostenitore a “ilfattoquotidiano.it”, al costo promozionale di 1€ al mese per 3 mesi. A decorrere dal quarto mese il costo dell'abbonamento diverrà di 5,99€ al mese, il tutto mantenendo le tue attuali impostazioni. Da abbonato potrai navigare senza alcun tipo di pubblicità.
+
+Images:
+  - https://st.ilfattoquotidiano.it/wp-content/themes/ifq-2019/assets/img/svg/logo-desktop.svg
+  - data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=
+  - https://st.ilfattoquotidiano.it/wp-content/uploads/2023/10/20/diarioox-1050x551.jpg
+
+Keywords:
+  - width
+  - 1080
+  - max
+  - image
+  - preview
+  - large
+  - summary_large_image
+  - Video
+  - Il
+  - Fatto
+  - Quotidiano
+  - fattoquotidiano
+  - the_minimizer
+  - 476465295171
+  - 69hs7d4aa94kjnmj55bnmjm8drg4dslm
+  - apps
+  - googleusercontent
+  - com
+  - https
+  - st
+  - ilfattoquotidiano
+  - it
+  - wp
+  - content
+  - themes
+  - ifq
+  - 2019
+  - assets
+  - icons
+  - touch_196
+  - pngGaza
+  - manager
+  - Oxfam
+  - racconta
+  - i
+  - raid
+  - a
+  - Khan
+  - Younis
+  - Colpito
+  - un
+  - edificio
+  - vicino
+  - a
+  - noi
+  - piangevano
+  - tutti
+  - Ora
+  - pensiamo
+  - solo
+  - a
+  - salvarci
+  - Mondo
+  - Mondo
+  - Lavoro
+  - Precari
+  - Giustizia
+  - Impunità
+  - Politica
+  - Politica
+  - Politica
+  - Politica
+  - Politica
+  - Cronaca
+  - Cronaca
+  - Cronaca
+  - Cronaca
+  - Cronaca
+  - Mondo
+  - Mondo
+  - Mondo
+  - Mondo
+  - Mondo
+  - ABBONATI
+
+Keyword Density:
+  width: 0.0
+  1080: 0.0
+  max: 0.0
+  image: 0.0
+  preview: 0.0
+  large: 0.0
+  summary_large_image: 0.0
+  Video: 0.3225806451612903
+  Il: 0.0
+  Fatto: 0.3225806451612903
+  Quotidiano: 0.0
+  fattoquotidiano: 0.0
+  the_minimizer: 0.0
+  476465295171: 0.0
+  69hs7d4aa94kjnmj55bnmjm8drg4dslm: 0.0
+  apps: 0.0
+  googleusercontent: 0.0
+  com: 0.0
+  https: 0.0
+  st: 0.0
+  ilfattoquotidiano: 0.0
+  it: 0.0
+  wp: 0.0
+  content: 0.0
+  themes: 0.0
+  ifq: 0.0
+  2019: 0.0
+  assets: 0.0
+  icons: 0.0
+  touch_196: 0.0
+  pngGaza: 0.0
+  manager: 0.6451612903225806
+  Oxfam: 0.6451612903225806
+  racconta: 0.6451612903225806
+  i: 0.0
+  raid: 0.6451612903225806
+  a: 0.0
+  Khan: 0.6451612903225806
+  Younis: 0.6451612903225806
+  Colpito: 0.6451612903225806
+  un: 0.0
+  edificio: 0.6451612903225806
+  vicino: 0.967741935483871
+  noi: 0.0
+  piangevano: 0.6451612903225806
+  tutti: 0.0
+  Ora: 0.967741935483871
+  pensiamo: 0.6451612903225806
+  solo: 0.6451612903225806
+  salvarci: 0.6451612903225806
+  Mondo: 0.6451612903225806
+  Lavoro: 0.3225806451612903
+  Precari: 0.0
+  Giustizia: 0.3225806451612903
+  Impunità: 0.0
+  Politica: 0.0
+  Cronaca: 0.0
+  ABBONATI: 0.0
+
+Canonical URL:
+  https://www.ilfattoquotidiano.it/video/
+
+Language:
+  it-IT
+
+Charset:
+  None
+
+Broken Links:

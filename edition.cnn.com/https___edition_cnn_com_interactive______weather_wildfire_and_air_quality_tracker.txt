@@ -1,0 +1,144 @@
+
+Meta Tags:
+  description: View updated wildfire maps and the latest air quality index for different cities in the United States.
+  viewport: width=device-width, initial-scale=1
+  robots: index,follow
+  googlebot: noarchive
+  section: weather
+  source: CNN
+  application-name: CNN
+  twitter:card: summary_large_image
+  twitter:site: @cnn
+  twitter:site:id: 759251
+  twitter:creator: @cnn
+
+Headings:
+  h1: ['Tracking wildfires in the US']
+  h2: []
+  h3: ['Air quality']
+  h4: ['Search nearby']
+  h5: []
+  h6: []
+
+Links:
+  - https://cnn.com
+  - https://twitter.com/intent/tweet?text=View updated wildfire maps and the latest air quality index for different cities in the United States.&url=https://www.cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker
+  - https://www.facebook.com/sharer/sharer.php?u=https://www.cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker
+  - https://www.cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker/es/
+  - https://www.cnn.com/2020/09/14/weather/wildfire-smoke-new-york-trnd/index.html
+  - https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm
+  - https://cnn.com
+  - https://facebook.com/cnn
+  - https://twitter.com/cnn
+  - https://instagram.com/cnn
+  - https://youtube.com/user/cnn
+  - https://cnn.com/terms
+  - https://cnn.com/privacy
+  - https://cnn.com/accessibility
+  - https://preferences-mgr.truste.com/?pid=turnermedia01&aid=turnermedia01&type=turner_pop&pid=turnermedia01&aid=turnermedia01
+  - https://cnn.com/about
+  - https://tours.cnn.com
+  - https://store.cnn.com
+  - https://cnn.com/newsletters
+  - https://cnn.com/transcripts
+  - https://collection.cnn.com
+  - https://cnnnewsource.com/
+  - https://www.cnn.com/sitemap.html
+  - https://warnermediagroup.com
+
+Text Content:
+  Wildfire map and air quality trackerTracking wildfires in the USBy Daniel Wolfe, RenÃ©e Rigdon, Kaeti Hinck and Sean OâKey, CNNLast updatedLeer en espaÃ±olðªð¸With severe drought conditions continuing across the Western United States, the risk of larger and more frequent wildfires threatens the safety of residents, communities and wildlife. This map visualizes wildfires active within the last 30 days.Click to enableFire originFire perimeterHotspot (24hr)Hotspot (48hr)SmokeSource:Cal Fire, National Interagency Fire Center, VIIRS-SNPP, EPA AirNow, National Oceanic and Atmospheric Administration (NOAA)Air qualityWildfire smoke creates fine particulate matter that can linger in the atmosphere andspread from coast to coast.According to the US Environmental Protection Agency (EPA), in large quantities, this microscopic dust is linked to cardiovascular disease also associated with smoking cigarettes. The EPA measures regional air quality index (AQI) by how hazardous it is to the general public. Discover the AQI in your city by searching below.Search nearbyWorst air quality:AQIMetro areas:AQINotes:Only smoke classified as heavy by NOAAâs hazard mapping program are shown. VIIRS hotspots are based on 375 meter resolution thermal sensors. As such, their representation should be taken as estimates. Air quality data is derived through the EPAâs limited sensors and may be prone to resolution errors due to their positioning.Follow CNNTerms of UsePrivacy PolicyAccessibility + CCAdChoicesAbout UsCNN Studio ToursCNN StoreNewslettersTranscriptsLicense FootageCNN NewsourceSitemapÂ© 2020 Cable News Network. AWarnerMediaCompany. All Rights Reserved.CNN Sans â¢ & Â© 2016 Cable News Network.
+
+Images:
+  - https://cdn.cnn.com/cnn/interactive/2019/09/politics/trump-ukraine-transcript-annotated/media/assets/cnn-logo-badge.svg
+  - ./media/assets/pointer.svg
+
+Keywords:
+  - View
+  - updated
+  - wildfire
+  - maps
+  - and
+  - the
+  - latest
+  - air
+  - quality
+  - index
+  - for
+  - different
+  - cities
+  - in
+  - the
+  - United
+  - States
+  - width
+  - device
+  - width
+  - initial
+  - scale
+  - 1
+  - index
+  - follow
+  - noarchive
+  - weather
+  - CNN
+  - CNN
+  - summary_large_image
+  - cnn
+  - 759251
+  - cnnTracking
+  - wildfires
+  - in
+  - the
+  - US
+  - Air
+  - quality
+  - Search
+  - nearby
+
+Keyword Density:
+  View: 0.0
+  updated: 0.0
+  wildfire: 0.641025641025641
+  maps: 0.0
+  and: 0.0
+  the: 0.0
+  latest: 0.0
+  air: 3.205128205128205
+  quality: 2.564102564102564
+  index: 0.641025641025641
+  for: 0.0
+  different: 0.0
+  cities: 0.0
+  in: 0.0
+  United: 0.641025641025641
+  States: 0.641025641025641
+  width: 0.0
+  device: 0.0
+  initial: 0.0
+  scale: 0.0
+  1: 0.0
+  follow: 0.0
+  noarchive: 0.0
+  weather: 0.0
+  CNN: 0.0
+  summary_large_image: 0.0
+  cnn: 0.0
+  759251: 0.0
+  cnnTracking: 0.0
+  wildfires: 1.9230769230769231
+  US: 0.641025641025641
+  Air: 3.205128205128205
+  Search: 0.0
+  nearby: 0.0
+
+Canonical URL:
+  None
+
+Language:
+  None
+
+Charset:
+  utf-8
+
+Broken Links:
