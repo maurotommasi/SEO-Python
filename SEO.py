@@ -15,7 +15,6 @@ class SEO:
         nltk.download('punkt')
         nltk.download('stopwords')
         self.stop_words = set(stopwords.words(language))
-        self.seo_result = {}
 
     def fetch_page_content(self, url):
         try:
@@ -155,14 +154,13 @@ class SEO:
             
             if save:
                 self.__save_and_display_report(onpage_seo_results, broken_links, url, folder_path)
-            self.seo_result = onpage_seo_results
             return onpage_seo_results, [broken_links]
         else:
             print("Failed to fetch page content.")
             return None, None
 
-    def getTopKeywordsDensity(self, items = 5):
-        sorted_dict_items = sorted(self.seo_result['Keyword Density'][0].items(), key=lambda x: x[1], reverse=True)
+    def getTopKeywordsDensity(self, seo_result, items = 5):
+        sorted_dict_items = sorted(seo_result['Keyword Density'][0].items(), key=lambda x: x[1], reverse=True)
         return dict(sorted_dict_items[:items])
 
     def __save_and_display_report(self, seo_data_df, brokenLinks, url, folder_path):
